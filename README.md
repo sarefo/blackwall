@@ -44,6 +44,7 @@ $PY -I scripts/zoom.py P X0 Y0 X1 Y1              # full-res region with compone
 $PY -I /c/dev/koch/scripts/crop.py 1 2 ...        # work/crops
 $PY -I scripts/sheet.py P                         # work/sheets/PPP.jpg contact sheet
 $PY -I /c/dev/koch/scripts/tight.py auto 1 2 ...  # work/tight + data/tight masks
+$PY -I /c/dev/koch/scripts/tight.py sketches 4 5 ...  # uncolored drawings into data/gallery_skip.json
 $PY -I /c/dev/koch/scripts/wsc_included.py 302 328   # data/wsc: WSC "taxa included" for Part I and Part II
 $PY -I scripts/build_table.py                     # data/figures.csv
 ```
