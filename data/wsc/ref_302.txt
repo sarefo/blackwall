@@ -1,0 +1,150 @@
+World Spider Catalog
+Families
+Search
+Bibliography
+Statistics
+Fossils
+WSCA
+About
+Membership
+Activities
+Upload PDF
+Association
+more
+Logs
+Archive
+Introduction
+Contact
+FAQ
+Boards
+Sponsors
+Taxonomic Resources
+Data Resources
+Literature about WSC
+
+Login
+
+Taxa included
+
+Blackwall, J. (1861a). A history of the spiders of Great Britain and Ireland. [Part I]. Ray Society, London, pp. 1-174, pl. 1-12. doi: 10.5962/bhl.title.143674 
+
+Provide ZooBank ID
+Taxon	
+Atypus piceus (Sulzer, 1776) (Atypidae)	14, pl. 1, f. 1 (mf), Atypus sulzeri
+Trochosa terricola Thorell, 1856 (Lycosidae)	14, pl. 1, f. 1 (mf; misidentified per Thorell, 1872a: 339), Lycosa agretyca
+Trochosa ruricola (De Geer, 1778) (Lycosidae)	18, pl. 1, f. 3 (mf; misidentified per Thorell, 1872a: 336), Lycosa campestris
+Alopecosa barbipes (Sundevall, 1833) (Lycosidae)	20, pl. 1, f. 4 (mf), Lycosa andrenivora
+Alopecosa pulverulenta (Clerck, 1757) (Lycosidae)	21, pl. 1, f. 5 (mf), Lycosa rapax
+Pardosa palustris (Linnaeus, 1758) (Lycosidae)	22, pl. 1, f. 6 (f, Dm), Lycosa herbigrada
+Arctosa cinerea (Fabricius, 1777) (Lycosidae)	23, pl. 1, f. 7 (mf), Lycosa allodroma
+Arctosa perita (Latreille, 1799) (Lycosidae)	25, pl. 1, f. 8 (mf), Lycosa picta
+Pardosa amentata (Clerck, 1757) (Lycosidae)	26, pl. 2, f. 9 (mf), Lycosa saccata
+Pardosa saltans Töpfer-Hofmann, 2000 (Lycosidae)	27, pl. 2, f. 10 (mf; misidentified per Töpfer-Hofmann, Cordes & von Helversen, 2000: 269), Lycosa lugubris
+Pardosa monticola (Clerck, 1757) (Lycosidae)	29, pl. 2, f. 12 (mf), Lycosa exigua
+Pardosa agricola (Thorell, 1856) (Lycosidae)	31, pl. 2, f. 13 (Dmf) [urn:lsid:nmbe.ch:spidersp:063980], Lycosa fluviatilis
+Arctosa leopardus (Sundevall, 1833) (Lycosidae)	32, pl. 2, f. 14 (mf), Lycosa cambrica
+Piratula latitans (Blackwall, 1841) (Lycosidae)	33, pl. 2, f. 15 (mf), Lycosa latitans
+Pirata piraticus (Clerck, 1757) (Lycosidae)	34, pl. 2, f. 16 (mf), Lycosa piratica
+Piratula hygrophila (Thorell, 1872) (Lycosidae)	36, pl. 2, f. 17 (mf; misidentified per Thorell, 1872a: 346 and Thorell, 1873: 419), Lycosa piscatoria
+Pisaura mirabilis (Clerck, 1757) (Pisauridae)	37, pl. 2, f. 18 (mf), Dolomedes mirabilis
+Dolomedes fimbriatus (Clerck, 1757) (Dolomedidae)	39, pl. 2, f. 19 (mf, misidentified), Dolomedes ornatus
+Dolomedes fimbriatus (Clerck, 1757) (Dolomedidae)	40, pl. 2, f. 20 (mf), Dolomedes fimbriatus
+Zora spinimana (Sundevall, 1833) (Miturgidae)	41, pl. 3, f. 21 (mf, S of Hecaerge maculata), Hecaerge spinimana
+Oxyopes heterophthalmus (Latreille, 1804) (Oxyopidae)	43, pl. 8, f. 22 (mf; misidentified per Simon, 1876a: 220, confirmed by Bauer & Höfer, 2017: 31), Sphasus lineatus
+Eresus sandaliatus (Martini & Goeze, 1778) (Eresidae)	46, pl. 3, f. 23 (mf, misidentified), Eresus cinnaberinus
+Salticus cingulatus (Panzer, 1796) (Salticidae)	47, pl. 3, f. 24 (mf; misidentified per O. Pickard-Cambridge, 1881a: 393), Salticus scenicus
+Attulus pubescens (Fabricius, 1775) (Salticidae)	49, pl. 3, f. 25 (mf), Salticus sparsus
+Evarcha falcata (Clerck, 1757) (Salticidae)	50, pl. 3, f. 26 (mf), Salticus coronatus
+Euophrys frontalis (Walckenaer, 1802) (Salticidae)	52, pl. 3, f. 27 (mf), Salticus frontalis
+Ballus chalybeius (Walckenaer, 1802) (Salticidae)	53, pl. 3, f. 28 (m, Df), Salticus obscurus
+Pseudeuophrys erratica (Walckenaer, 1826) (Salticidae)	54, pl. 3, f. 29 (mf), Salticus distinctus
+Attulus saltator (O. Pickard-Cambridge, 1868) (Salticidae)	55, pl. 3, f. 30 (f; misidentified per O. Pickard-Cambridge, in Simon, 1868b: 611), Salticus floricola
+Heliophanus cupreus (Walckenaer, 1802) (Salticidae)	57, pl. 3, f. 31 (mf), Salticus cupreus
+Marpissa radiata (Grube, 1859) (Salticidae)	59, pl. 3, f. 32 (j), Salticus promptus
+Neon reticulatus (Blackwall, 1853) (Salticidae)	60, pl. 3, f. 33 (f, Dm), Salticus reticulatus
+Marpissa radiata (Grube, 1859) (Salticidae)	62, pl. 3, f. 34 (f), Salticus blackwallii
+Marpissa muscosa (Clerck, 1757) (Salticidae)	63, pl. 3, f. 35 (mf), Salticus tardigradus
+Myrmarachne formicaria (De Geer, 1778) (Salticidae)	64, pl. 3, f. 36 (mf), Salticus formicarius
+Ozyptila brevipes (Hahn, 1826) (Thomisidae)	67, pl. 4, f. 37 (f), Thomisus brevipes
+Xysticus cristatus (Clerck, 1757) (Thomisidae)	68, pl. 4, f. 38 (f), Thomisus cristatus
+Xysticus audax (Schrank, 1803) (Thomisidae)	70, pl. 4, f. 39 (mf), Thomisus audax
+Xysticus erraticus (Blackwall, 1834) (Thomisidae)	71, pl. 4, f. 40 (mf), Thomisus erraticus
+Psammitis sabulosa (Hahn, 1832) (Thomisidae)	72, f. 41 (mf), Thomisus sabulosus
+Ozyptila atomaria (Panzer, 1800) (Thomisidae)	74, pl. 4, f. 42, Thomisus atomarius
+Psammitis sabulosa (Hahn, 1832) (Thomisidae)	74, pl. 4, f. 43 (f; misidentified per O. Pickard-Cambridge, 1900b: 60), Thomisus cinereus
+Diaea dorsata (Fabricius, 1777) (Thomisidae)	76, pl. 4, f. 44 (Dmf), Thomisus floricolens
+Xysticus luctuosus (Blackwall, 1836) (Thomisidae)	78, pl. 4, f. 45 (Dm, f), Thomisus luctuosus
+Xysticus bifasciatus C. L. Koch, 1837 (Thomisidae)	79, pl. 4, f. 46 (mf), Thomisus bifasciatus
+Psammitis sabulosa (Hahn, 1832) (Thomisidae)	81, pl. 4, f. 47 (f), Thomisus cambridgei
+Ozyptila atomaria (Panzer, 1800) (Thomisidae)	82, pl. 4, f. 48 (f), Thomisus pallidus
+Ozyptila atomaria (Panzer, 1800) (Thomisidae)	83, pl. 4, f. 49 (mf) [urn:lsid:nmbe.ch:spidersp:065971], Thomisus versutus
+Ozyptila trux (Blackwall, 1846) (Thomisidae)	84, pl. 4, f. 50 (m), Thomisus trux
+Ozyptila praticola (C. L. Koch, 1837) (Thomisidae)	86, pl. 4, f. 51 (m, Df), Thomisus incertus
+Misumena vatia (Clerck, 1757) (Thomisidae)	88, pl. 4, f. 53 (mf), Thomisus citreus
+Thomisus onustus Walckenaer, 1805 (Thomisidae)	90, pl. 4, f. 54 (f), Thomisus abbreviatus
+Philodromus dispar Walckenaer, 1826 (Philodromidae)	91, pl. 5, f. 55 (mf), Philodromus dispar
+Emargidromus emarginatus (Schrank, 1803) (Philodromidae)	93, pl. 5, f. 56 (mf), Philodromus pallidus
+Rhysodromus histrio (Latreille, 1819) (Philodromidae)	94, pl. 5, f. 57 (f), Philodromus elegans
+Philodromus cespitum (Walckenaer, 1802) (Philodromidae)	95, pl. 5, f. 58 (mf), Philodromus cespiticolis
+Philodromus aureolus (Clerck, 1757) (Philodromidae)	99, pl. 5, f. 59 (mf), Philodromus aureolus
+Tibellus oblongus (Walckenaer, 1802) (Philodromidae)	100, pl. 5, f. 60 (mf), Philodromus oblongus
+Micrommata virescens (Clerck, 1757) (Sparassidae)	102, pl. 5, f. 61 (mf), Sparassus smaragdulus
+Gnaphosa leporina (L. Koch, 1866) (Gnaphosidae)	105, pl. 6, f. 62 (f; misidentified per O. Pickard-Cambridge, 1871a: 410), Drassus lucifugus
+Zelotes subterraneus (C. L. Koch, 1833) (Gnaphosidae)	106, pl. 6, f. 63 (mf; misidentified sensu Roewer, 1955c: 461), Drassus ater
+Drassyllus pusillus (C. L. Koch, 1833) (Gnaphosidae)	107, pl. 6, f. 64D (mf), Drassus pusillus
+Zelotes electus (C. L. Koch, 1839) (Gnaphosidae)	108, pl. 6, f. 65 (f; misidentified per O. Pickard-Cambridge, 1871a: 413), Drassus pumilus
+Haplodrassus signifer (C. L. Koch, 1839) (Gnaphosidae)	109, pl. 6, f. 66 (m), Drassus clavator
+Scotophaeus blackwalli (Thorell, 1871) (Gnaphosidae)	111, pl. 6, f. 67, (f; misidentified per Thorell, 1871a: 179), Drassus sericeus
+Scotophaeus quadripunctatus (Linnaeus, 1758) (Gnaphosidae)	111, pl. 6, f. 67 (f, in part), Drassus sericeus
+Haplodrassus silvestris (Blackwall, 1833) (Gnaphosidae)	113, pl. 6, f. 68 (f, Dm), Drassus sylvestris
+Drassodes cupreus (Blackwall, 1834) (Gnaphosidae)	114, pl. 6, f. 69 (mf), Drassus cupreus
+Drassodes lapidosus (Walckenaer, 1802) (Gnaphosidae)	116, pl. 6, f. 70, (mf), Drassus lapidicolens
+Drassodes ferrugineus (Blackwall, 1861) (Gnaphosidae)	117, pl. 6, f. 71, (Df), Drassus ferrugineus Original description
+Micaria micans (Blackwall, 1858) (Gnaphosidae)	118, pl. 6, f. 72 (m), Drassus micans
+Micaria pulicaria (Sundevall, 1831) (Gnaphosidae)	119, pl. 6, f. 73 (mf), Drassus nitens
+Phrurolithus festivus (C. L. Koch, 1835) (Phrurolithidae)	120, pl. 6, f. 74 (m), Drassus propinquus
+Clubiona reclusa O. Pickard-Cambridge, 1863 (Clubionidae)	122, pl. 7, f. 75 (mf; misidentified per Simon, 1878a: 226, sub Clubiona grisea), Clubiona holosericea
+Clubiona terrestris Westring, 1851 (Clubionidae)	123, pl. 7, f. 76 (mf; misidentified per O. Pickard-Cambridge, 1874d: 321), Clubiona amarantha
+Clubiona pallidula (Clerck, 1757) (Clubionidae)	124, pl. 7, f. 77 (f, Dm), Clubiona epimelas
+Clubiona pallidula (Clerck, 1757) (Clubionidae)	125, pl. 7, f. 78 (Df) [urn:lsid:nmbe.ch:spidersp:061807], Clubiona formosa
+Clubiona corticalis (Walckenaer, 1802) (Clubionidae)	126, pl. 7, f. 79 (Dmf), Clubiona corticalis
+Clubiona brevipes Blackwall, 1841 (Clubionidae)	127, pl. 7, f. 80 (mf), Clubiona brevipes
+Clubiona comta C. L. Koch, 1839 (Clubionidae)	128, pl. 7, f. 81 (mf), Clubiona comta
+Clubiona subtilis L. Koch, 1867 (Clubionidae)	130, pl. 8, f. 82 (mf; misidentified per Thorell, 1871a: 227), Clubiona pallens
+Anyphaena accentuata (Walckenaer, 1802) (Anyphaenidae)	131, pl. 8, f. 83 (mf), Anyphaena accentuata
+Liocranum rupicola (Walckenaer, 1830) (Liocranidae)	132, pl. 8, f. 84 (mf), Clubiona domestica
+Cheiracanthium erraticum (Walckenaer, 1802) (Cheiracanthiidae)	134, pl. 8, f. 85 (f; misidentified per Simon, 1932: 961), Clubiona nutrix
+Cheiracanthium erraticum (Walckenaer, 1802) (Cheiracanthiidae)	135, pl. 8, f. 86 (mf), Clubiona erratica
+Argyroneta aquatica (Clerck, 1757) (Argyronetidae)	137, pl. 8, f. 87 (mf), Argyroneta aquatica
+Amaurobius fenestralis (Ström, 1768) (Amaurobiidae)	140, pl. 9, f. 88 (mf), Ciniflo atrox
+Amaurobius similis (Blackwall, 1861) (Amaurobiidae)	141, pl. 19, f. 116 (Dmf), Ciniflo similis Original description
+Amaurobius ferox (Walckenaer, 1830) (Amaurobiidae)	142, pl. 9, f. 90 (mf), Ciniflo ferox
+Amaurobius ferox (Walckenaer, 1830) (Amaurobiidae)	144, pl. 9, f. 91 (f), Ciniflo mordax
+Lathys humilis (Blackwall, 1855) (Lathyidae)	145, pl. 9, f. 92 (f), Ciniflo humilis
+Nigma flavescens (Walckenaer, 1830) (Dictynidae)	145, pl. 10, f. 94 (f), Ergatis pallens
+Dictyna arundinacea (Linnaeus, 1758) (Dictynidae)	146, pl. 9, f. 93 (mf), Ergatis benigna
+Brigittea latens (Fabricius, 1775) (Dictynidae)	149, pl. 9, f. 95 (f), Ergatis latens
+Uloborus walckenaerius Latreille, 1806 (Uloboridae)	150, pl. 10, f. 96 (j), Veleda lineata
+Agelena labyrinthica (Clerck, 1757) (Agelenidae)	152, pl. 10, f. 97 (mf), Agelena labyrinthica
+Cryphoeca silvicola (C. L. Koch, 1834) (Cybaeidae)	154, pl. 10, f. 98 (Df), Agelena hyndmannii
+Antistea elegans (Blackwall, 1841) (Hahniidae)	155, pl. 10, f. 99 (mf), Agelena elegans
+Iberina montana (Blackwall, 1841) (Hahniidae)	157, pl. 10, f. 100 (f, Dm), Agelena montana
+Hahnia nava (Blackwall, 1841) (Hahniidae)	158, pl. 10, f. 101 (mf), Agelena nava
+Agroeca brunnea (Blackwall, 1833) (Liocranidae)	159, pl. 10, f. 102 (f), Agelena brunnea
+Scotina celans (Blackwall, 1841) (Liocranidae)	161, pl. 10, f. 103 (mf), Agroeca celans
+Scotina gracilipes (Blackwall, 1859) (Liocranidae)	162, pl. 10, f. 104 (m), Agelena gracilipes
+Tegenaria parietina (Fourcroy, 1785) (Agelenidae)	163, pl. 11, f. 105 (mf, misidentified), Tegenaria domestica
+Eratigena saeva (Blackwall, 1844) (Agelenidae)	165, pl. 11, f. 106 (mf; misidentified per Simon, 1937: 1039), Tegenaria atrica
+Tegenaria domestica (Clerck, 1757) (Agelenidae)	166, pl. 12, f. 107 (mf), Tegenaria civilis
+Cryphoeca silvicola (C. L. Koch, 1834) (Cybaeidae)	168, pl. 12, f. 108 (mf), Tegenaria silvicola
+Coelotes atropos (Walckenaer, 1830) (Agelenidae)	169, pl. 12, f. 109 (mf), Coelotes saxatilis
+Textrix denticulata (Olivier, 1789) (Agelenidae)	172, pl. 12, f. 110 (mf, S of Textrix agilis), Textrix lycosina
+Trachyzelotes pedestris (C. L. Koch, 1837) (Gnaphosidae)	442, (Df), Drassus pedestris
+
+Sponsors
+
+World Spider Catalog, 2026
+
+Natural History Museum Bern
+
+ 

@@ -1,0 +1,220 @@
+World Spider Catalog
+Families
+Search
+Bibliography
+Statistics
+Fossils
+WSCA
+About
+Membership
+Activities
+Upload PDF
+Association
+more
+Logs
+Archive
+Introduction
+Contact
+FAQ
+Boards
+Sponsors
+Taxonomic Resources
+Data Resources
+Literature about WSC
+
+Login
+
+Taxa included
+
+Blackwall, J. (1864a). A history of the spiders of Great Britain and Ireland. Part II. Ray Society, London, pp. 175-384, pl. 13-29. doi: 10.5962/bhl.title.143674 
+
+Provide ZooBank ID
+Taxon	
+Enoplognatha ovata (Clerck, 1757) (Theridiidae)	176, pl. 13, f. 111 (mf), Theridion lineatum
+Steatoda bipunctata (Linnaeus, 1758) (Theridiidae)	177, pl. 13, f. 112 (mf), Theridium quadripunctatum
+Parasteatoda lunata (Clerck, 1757) (Theridiidae)	179, pl. 13, f. 113 (mf), Theridion sisyphum
+Parasteatoda tepidariorum (C. L. Koch, 1841) (Theridiidae)	180, pl. 13, f. 114 (mf), Theridion tepidariorum
+Cryptachaea riparia (Blackwall, 1834) (Theridiidae)	182, pl. 12, f. 115 (mf), Theridion riparium
+Phylloneta sisyphia (Clerck, 1757) (Theridiidae)	183, pl. 13, f. 116 (mf), Theridion nervosum
+Theridion pictum (Walckenaer, 1802) (Theridiidae)	184, pl. 13, f. 117 (mf), Theridion pictum
+Theridion melanurum Hahn, 1831 (Theridiidae)	185, pl. 13, f. 118 (mf), Theridion denticulatum
+Simitidion simile (C. L. Koch, 1836) (Theridiidae)	187, pl. 14, f. 119 (mf), Theridion simile
+Theridion varians Hahn, 1833 (Theridiidae)	188, pl. 14, f. 120 (mf), Theridion varians
+Platnickina tincta (Walckenaer, 1802) (Theridiidae)	190, pl. 14, f. 121 (mf), Theridion tinctum
+Anelosimus vittatus (C. L. Koch, 1836) (Theridiidae)	191, pl. 14, f. 122, (mf; misidentified per Simon, 1881a: 98), Theridion pulchellum
+Neottiura bimaculata (Linnaeus, 1767) (Theridiidae)	192, pl. 14, f. 123 (mf), Theridion carolinum
+Steatoda grossa (C. L. Koch, 1838) (Theridiidae)	193, pl. 14, f. 124 (m), Theridion versutum
+Paidiscura pallens (Blackwall, 1834) (Theridiidae)	194, pl. 14, f. 125 (m, Df), Epeira nubila
+Crustulina sticta (O. Pickard-Cambridge, 1861) (Theridiidae)	196, pl. 14, f. 126 (f), Theridion stictum
+Phycosoma inornatum (O. Pickard-Cambridge, 1861) (Theridiidae)	196, pl. 14, f. 127 (mf), Theridion inornatum
+Euryopis haematostigma (Blackwall, 1864) (Theridiidae)	198, pl. 14, f. 129, (Df), Theridion haematostigma Original description
+Theridion auratum (Templeton, 1864) (Theridiidae)	198, (T from Sigaloessa), Theridion auratum
+Theridion auratum (Templeton, 1864) (Theridiidae)	198, pl. 14, f. 128, (Dj), Sigaloessa aurata Original description
+Sigaloessa Templeton, 1864 (Theridiidae)	198, type Sigaloessa aurata Templeton, 1864; gender feminine Original description
+Paidiscura pallens (Blackwall, 1834) (Theridiidae)	199, pl. 14, f. 130 (f), Theridion albens
+Crustulina guttata (Wider, 1834) (Theridiidae)	200, pl. 14, f. 131 (mf), Theridion guttatum
+Euryopis flavomaculata (C. L. Koch, 1836) (Theridiidae)	201, pl. 14, f. 132 (mf), Theridion flavomaculatum
+Episinus angulatus (Blackwall, 1836) (Theridiidae)	202, pl. 14, f. 133 (m, Df), Theridion angulatum
+Ero furcata (Villers, 1789) (Mimetidae)	203, pl. 14, f. 134 (mf, S of Theridion callens and T. thoracicum), Theridion variegatum
+Asagena phalerata (Panzer, 1800) (Theridiidae)	205, pl. 14, f. 135 (mf), Theridion signatum
+Diplostyla concolor (Wider, 1834) (Linyphiidae)	206, pl. 14, f. 136 (mf), Theridion filipes
+Pholcus phalangioides (Fuesslin, 1775) (Pholcidae)	208, pl. 15, f. 137 (mf), Pholcus phalangioides
+Linyphia triangularis (Clerck, 1757) (Linyphiidae)	211, pl. 15, f. 138 (mf), Linyphia montana
+Neriene radiata (Walckenaer, 1841) (Linyphiidae)	212, pl. 15, f. 139 (mf; misidentified per Thorell, 1870a: 51), Linyphia triangularis
+Neriene montana (Clerck, 1757) (Linyphiidae)	213, pl. 15, f. 140 (mf), Linyphia marginata
+Linyphia hortensis Sundevall, 1830 (Linyphiidae)	215, pl. 15, f. 141 (Dmf) [urn:lsid:nmbe.ch:spidersp:061088], Linyphia pratensis
+Microlinyphia pusilla (Sundevall, 1830) (Linyphiidae)	216, pl. 15, f. 142 (m, Df), Linyphia fuliginea
+Neriene peltata (Wider, 1834) (Linyphiidae)	217, pl. 15, f. 143 (mf), Linyphia rubea
+Lepthyphantes minutus (Blackwall, 1833) (Linyphiidae)	218, pl. 15, f. 144 (mf, S of Linyphia domestica), Linyphia minutus
+Labulla thoracica (Wider, 1834) (Linyphiidae)	220, pl. 15, f. 145 (mf), Linyphia cauta
+Megalepthyphantes nebulosus (Sundevall, 1830) (Linyphiidae)	221, pl. 16, f. 146 (mf), Linyphia vivax
+Drapetisca socialis (Sundevall, 1833) (Linyphiidae)	222, pl. 16, f. 147 (mf, S of Linyphia annulipes), Linyphia socialis
+Nesticus cellulanus (Clerck, 1757) (Nesticidae)	224, pl. 16, f. 148 (mf, S of Linyphia pallidula), Linyphia crypticolens
+Bolyphantes luteolus (Blackwall, 1833) (Linyphiidae)	226, pl. 16, f. 149 (mf; misidentified per Thorell, 1870a: 63), Linyphia alticeps
+Tapinopa longidens (Wider, 1834) (Linyphiidae)	227, pl. 16, f. 150 (mf), Linyphia tardipes
+Floronia bucculenta (Clerck, 1757) (Linyphiidae)	228, pl. 16, f. 151 (mf), Linyphia frenata
+Tenuiphantes tenuis (Blackwall, 1852) (Linyphiidae)	230, pl. 16, f. 152 (mf), Linyphia tenuis
+Tenuiphantes zimmermanni (Bertkau, 1890) (Linyphiidae)	231, pl. 16, f. 153 (mf, misidentified), Linyphia terricola
+Bathyphantes meadei (Blackwall, 1853) (Linyphiidae)	232, pl. 16, f. 154, (mf), Linyphia meadii
+Kaestneria dorsalis (Wider, 1834) (Linyphiidae)	233, pl. 16, f. 155 (Dmf), Linyphia claytoniae
+Bathyphantes nigrinus (Westring, 1851) (Linyphiidae)	234, pl. 16, f. 156 (mf), Linyphia pulla
+Tenuiphantes alacris (Blackwall, 1853) (Linyphiidae)	235, pl. 17, f. 157 (mf), Linyphia alacris
+Palliduphantes ericaeus (Blackwall, 1853) (Linyphiidae)	237, pl. 17, f. 159 (mf), Linyphia ericaea
+Linyphia nasata Templeton, 1864 (Linyphiidae)	237, (Df; N.B.: by Templeton in ms. sub Aeobatus, nomen nudum), Linyphia nasata Original description
+Helophora insignis (Blackwall, 1841) (Linyphiidae)	238, pl. 17, f. 160 (f, Dm), Linyphia insignis
+Kaestneria dorsalis (Wider, 1834) (Linyphiidae)	239, Linyphia pernix
+Linyphia nigella Blackwall, 1836 (Linyphiidae)	240, (m), Linyphia nigella
+Neriene peltata (Wider, 1834) (Linyphiidae)	241, pl. 18, f. 161 (f), Linyphia albula
+Linyphia pulchella Blackwall, 1846 (Linyphiidae)	242, (m), Linyphia pulchella
+Linyphia furva Blackwall, 1841 (Linyphiidae)	243, (Dm, f), Linyphia furva
+Obscuriphantes obscurus (Blackwall, 1841) (Linyphiidae)	244, pl. 17, f. 162 (Dm), Linyphia obscura
+Bathyphantes gracilis (Blackwall, 1841) (Linyphiidae)	245, pl. 17, f. 163 (m), Linyphia gracilis
+Bathyphantes gracilis (Blackwall, 1841) (Linyphiidae)	246, pl. 17, f. 165 (m), Linyphia circumspecta
+Linyphia tenella Blackwall, 1854 (Linyphiidae)	246, pl. 17, f. 164, (f), Linyphia tenella
+Tenuiphantes flavipes (Blackwall, 1854) (Linyphiidae)	247, pl. 17, f. 166a-c (m, Df), Linyphia flavipes
+Neriene clathrata (Sundevall, 1830) (Linyphiidae)	249, pl. 17, f. 167 (mf), Neriene marginata
+Centromerita bicolor (Blackwall, 1833) (Linyphiidae)	250, pl. 17, f. 168 (mf), Neriene bicolor
+Robertus lividus (Blackwall, 1836) (Theridiidae)	251, (f), Neriene rufipes
+Robertus lividus (Blackwall, 1836) (Theridiidae)	252, pl. 18, f. 169 (Df), Neriene lividus
+Porrhomma errans (Blackwall, 1841) (Linyphiidae)	253, pl. 18, f. 170 (mf), Neriene errans
+Neriene furva Blackwall, 1836 (Linyphiidae)	253, (m), Neriene furva
+Scytodidae Blackwall, 1852	253 Original description
+Microneta viaria (Blackwall, 1841) (Linyphiidae)	255, pl. 18, f. 171 (m), Neriene viaria
+Agyneta rurestris (C. L. Koch, 1836) (Linyphiidae)	256, pl. 18, f. 172 (mf), Neriene gracilis
+Neriene pulla Blackwall, 1841 (Linyphiidae)	256, (m), Neriene pulla
+Tiso vagans (Blackwall, 1834) (Linyphiidae)	257, pl. 18, f. 173 (mf), Neriene vagans
+Gnathonarium dentatum (Wider, 1834) (Linyphiidae)	258, pl. 18, f. 174 (mf), Neriene dentata
+Tmeticus affinis (Blackwall, 1855) (Linyphiidae)	259, pl. 18, f. 175 (m), Neriene affinis
+Leptorhoptrum robustum (Westring, 1851) (Linyphiidae)	260, pl. 18, f. 176 (m), Neriene huthwaiti
+Porrhomma pygmaeum (Blackwall, 1834) (Linyphiidae)	261, pl. 17, f. 177 (mf), Neriene pygmaea
+Agyneta lugubris (Blackwall, 1834) (Linyphiidae)	261, Neriene lugubris
+Neriene avida Blackwall, 1844 (Linyphiidae)	263, Neriene avida
+Neriene timida Blackwall, 1844 (Linyphiidae)	263, Neriene timida
+Agyneta rurestris (C. L. Koch, 1836) (Linyphiidae)	264, pl. 18, f. 178 (m), Neriene flavipes
+Gongylidium rufipes (Linnaeus, 1758) (Linyphiidae)	265, pl. 18, f. 180 (m, Df), Neriene munda
+Gongylidiellum parvum (Blackwall, 1841) (Linyphiidae)	265, pl. 18, f. 179, (m), Neriene parva
+Hypomma cornutum (Blackwall, 1833) (Linyphiidae)	267, pl. 18, f. 181 (m, Df), Neriene cornuta
+Hypomma bituberculatum (Wider, 1834) (Linyphiidae)	268, pl. 18, f. 182 (mf), Neriene bituberculata
+Oedothorax apicatus (Blackwall, 1850) (Linyphiidae)	269, pl. 18, f, 183 (m, Df), Neriene apicata
+Gonatium rubens (Blackwall, 1833) (Linyphiidae)	270, pl. 17, f. 184 (mf), Neriene rubens
+Dicymbium nigrum (Blackwall, 1834) (Linyphiidae)	271, pl. 18, f. 185 (mf), Neriene nigrum
+Hylyphantes graminicola (Sundevall, 1830) (Linyphiidae)	272, pl. 19, f. 186 (m), Neriene graminicola
+Sintula corniger (Blackwall, 1856) (Linyphiidae)	273, pl. 19, f. 187 (m), Neriene cornigera
+Oedothorax montanus (Blackwall, 1856) (Linyphiidae)	273, Neriene montana
+Erigone atra Blackwall, 1833 (Linyphiidae)	274, pl. 22, f. 188 (mf; misidentified per Thorell, 1871a: 102), Neriene longipalpis
+Oedothorax fuscus (Blackwall, 1834) (Linyphiidae)	275, pl. 19, f. 189, pl. 12, f. 1 (mf), Neriene fusca
+Oedothorax agrestis (Blackwall, 1853) (Linyphiidae)	276, pl. 19, f. 190, pl. 22, f. D (mf), Neriene agrestis
+Walckenaeria vigilax (Blackwall, 1853) (Linyphiidae)	277, pl. 19, f. 191 (m), Neriene vigilax
+Oedothorax gibbosus (Blackwall, 1841) (Linyphiidae)	279, pl. 19, f. 192 (m), Neriene tuberosa
+Stemonyphantes lineatus (Linnaeus, 1758) (Linyphiidae)	279, pl. 19, f. 193 (mf), Neriene trilineata
+Gonatium rubellum (Blackwall, 1841) (Linyphiidae)	281, pl. 19, f. 194 (mf), Neriene rubellum
+Poeciloneta variegata (Blackwall, 1841) (Linyphiidae)	282, pl. 19, f. 195 (mf), Neriene variegata
+Saaristoa abnormis (Blackwall, 1841) (Linyphiidae)	283, pl. 19, f. 196, (Df) [urn:lsid:nmbe.ch:spidersp:063692], Neriene pilosa
+Neriene pallidula Templeton, 1864 (Linyphiidae)	283, pl. 19, f. 197, (Df), Neriene pallidula Original description
+Myagrus Templeton, 1864 (Linyphiidae)	283, type Neriene pilosa Templeton, 1864; gender masculine; syn. of Saaristoa abnormis (Blackwall, 1841) Original description
+Neriene carinata Templeton, 1864 (Linyphiidae)	284, (Df), Neriene carinata Original description
+Neriene sulcata Blackwall, 1844 (Linyphiidae)	284, Neriene sulcata
+Micrargus herbigradus (Blackwall, 1854) (Linyphiidae)	285, pl. 19, f. 199 (mf), Neriene herbigradus
+Saaristoa abnormis (Blackwall, 1841) (Linyphiidae)	286, pl. 19, f. 200 (mf), Neriene abnormis
+Macrargus rufus (Wider, 1834) (Linyphiidae)	287, pl. 19, f. 201 (mf), Neriene rubripes
+Robertus dubius (Blackwall, 1841) (Theridiidae)	288, pl. 19, f. 202, (m), Neriene dubia
+Walckenaeria acuminata Blackwall, 1833 (Linyphiidae)	289, pl. 20, f. 203 (mf), Walckenaeria acuminata
+Walckenaeria cuspidata Blackwall, 1833 (Linyphiidae)	290, pl. 20, f. 204 (mf), Walckenaeria cuspidata
+Walckenaeria monoceros (Wider, 1834) (Linyphiidae)	291, pl. 20, f. 205 (m), Walckenaeria monoceros
+Leptothrix hardyi (Blackwall, 1850) (Linyphiidae)	292, pl. 20, f. 206 (m), Walckenaera hardii
+Walckenaeria unicornis O. Pickard-Cambridge, 1861 (Linyphiidae)	293, pl. 20, f. 207 (m), Walckenaeria unicornis
+Walckenaeria obtusa Blackwall, 1836 (Linyphiidae)	294, pl. 20, f. 208 (m), Walckenaeria obtusa
+Lophomma punctatum (Blackwall, 1841) (Linyphiidae)	295, pl. 20, f. 210 (Dm, f, S of Argus trapezoides), Walckenaera punctata
+Monocephalus fuscipes (Blackwall, 1836) (Linyphiidae)	295, pl. 20, f. 209 (m), Walckenaera fuscipes
+Pelecopsis parallela (Wider, 1834) (Linyphiidae)	296, pl. 20, f. 211 (mf), Walckenaera parallela
+Cnephalocotes obscurus (Blackwall, 1834) (Linyphiidae)	297, pl. 20, f. 212 (m), Walckenaera obscurus
+Entelecara flavipes (Blackwall, 1834) (Linyphiidae)	298, pl. 20, f. 213 (mf), Walckenaera flavipes
+Pelecopsis turgida (Blackwall, 1841) (Linyphiidae)	299, pl. 20, f. 214a-c, (mf), Walckenaera turgida
+Silometopus ater (Blackwall, 1841) (Linyphiidae)	300, pl. 21, f. 215, (m), Walckenaera atra
+Troxochrus scabriculus (Westring, 1851) (Linyphiidae)	301, pl. 21, f. 216 (mf), Walckenaera aggeris
+Dismodicus bifrons (Blackwall, 1841) (Linyphiidae)	302, pl. 21, f. 218 (m), Walckenaera bifrons
+Erigonella hiemalis (Blackwall, 1841) (Linyphiidae)	302, pl. 21, f. 217 (mf), Walckenaera hiemalis
+Walckenaeria bicolor Blackwall, 1841 (Linyphiidae)	303, (m), Walckenaera bicolor
+Walckenaeria parva Blackwall, 1841 (Linyphiidae)	304, pl. 21, f. 219a-c, (mf), Walckenaera parva
+Walckenaeria exilis Blackwall, 1853 (Linyphiidae)	305, pl. 21, f. 220, (m), Walckenaera exilis
+Baryphyma pratense (Blackwall, 1861) (Linyphiidae)	306, pl. 21, f. 222 (mf), Walckenaera pratensis
+Ceratinella brevis (Wider, 1834) (Linyphiidae)	306, pl. 21, f. 221 (mf), Walckenaeria depressa
+Araeoncus humilis (Blackwall, 1841) (Linyphiidae)	307, pl. 21, f. 223 (mf), Walckenaera humilis
+Walckenaeria vafra Blackwall, 1856 (Linyphiidae)	308, (m), Walckenaeria vafra
+Diplocephalus cristatus (Blackwall, 1833) (Linyphiidae)	309, pl. 21, f. 224 (mf), Walckenaera cristatus
+Walckenaeria antica (Wider, 1834) (Linyphiidae)	310, pl. 21, f. 225 (mf), Walckenaeria apicata
+Trichoncus saxicola (O. Pickard-Cambridge, 1861) (Linyphiidae)	311, pl. 21, f. 226 (mf), Walckenaera saxicola
+Pocadicnemis pumila (Blackwall, 1841) (Linyphiidae)	312, pl. 21, f. 227 (mf), Walckenaera pumila
+Diplocephalus picinus (Blackwall, 1841) (Linyphiidae)	313, pl. 21, f. 228 (m), Walckenaera picina
+Trichopternoides thorelli (Westring, 1861) (Linyphiidae)	314, pl. 22, f. 229 (Dm), Walckenaera fastigata
+Parapelecopsis nemoralis (Blackwall, 1841) (Linyphiidae)	315, pl. 22, f. 230 (m), Walckenaera nemoralis
+Peponocranium ludicrum (O. Pickard-Cambridge, 1861) (Linyphiidae)	316, pl. 22, f. 231 (mf), Walckenaera ludicra
+Savignia frontata Blackwall, 1833 (Linyphiidae)	317, pl. 22, f. 232 (m), Walckenaera frontata
+Pachygnatha clercki Sundevall, 1823 (Tetragnathidae)	318, pl. 22, f. 233 (mf), Pachygnatha clercki
+Pachygnatha listeri Sundevall, 1830 (Tetragnathidae)	320, pl. 22, f. 234 (mf), Pachygnatha listeri
+Pachygnatha degeeri Sundevall, 1830 (Tetragnathidae)	321, pl. 22, f. 235 (mf), Pachygnatha degeeri
+Araneus quadratus Clerck, 1757 (Araneidae)	324, pl. 23, f. 236 (mf), Epeira quadrata
+Larinioides cornutus (Clerck, 1757) (Araneidae)	325, pl. 23, f. 237 (mf), Epeira apoclysa
+Larinioides cornutus (Clerck, 1757) (Araneidae)	328, pl. 23, f. 238 (mf, misidentified per Šestáková, Marusik & Omelko, 2014: 74), Epeira sericata
+Larinioides patagiatus (Clerck, 1757) (Araneidae)	329, pl. 24, f. 239 (mf), Epeira patagiata
+Araneus marmoreus Clerck, 1757 (Araneidae)	331, pl. 24, f. 240 (mf), Epeira scalaris
+Nuctenea umbratica (Clerck, 1757) (Araneidae)	333, pl. 24, f. 241 (mf), Epeira umbratica
+Araneus sturmi (Hahn, 1831) (Araneidae)	334, pl. 24, f. 242a-f, (mf; misidentified per O. Pickard-Cambridge, 1910: 108), Epeira agalena
+Agalenatea redii (Scopoli, 1763) (Araneidae)	336, pl. 24, f. 243 (mf), Epeira solers
+Zygiella x-notata (Clerck, 1757) (Araneidae)	337, pl. 25, f. 244, Epeira similis
+Zygiella x-notata (Clerck, 1757) (Araneidae)	338, pl. 25, f. 245 (mf), Epeira calophylla
+Mangora acalypha (Walckenaer, 1802) (Araneidae)	341, pl. 25, f. 246 (mf), Epeira acalypha
+Araniella cucurbitina (Clerck, 1757) (Araneidae)	342, pl. 25, f. 247 (mf), Epeira cucurbitina
+Cercidia prominens (Westring, 1851) (Araneidae)	343, pl. 25, f. 248 (mf), Epeira bella
+Araneus alsine (Walckenaer, 1802) (Araneidae)	345, pl. 25, f. 249 (mf), Epeira lutea
+Aculepeira ceropegia (Walckenaer, 1802) (Araneidae)	347, pl. 25, f. 250 (mf), Epeira ceropegia
+Neoscona adianta (Walckenaer, 1802) (Araneidae)	348, pl. 25, f. 251 (mf), Epeira adianta
+Meta menardi (Latreille, 1804) (Tetragnathidae)	349, pl. 26, f. 252 (mf; misidentified per Thorell, 1870a: 38), Epeira fusca
+Metellina merianae (Scopoli, 1763) (Tetragnathidae)	351, pl. 26, f. 253 (mf), Epeira antriada
+Metellina merianae (Scopoli, 1763) (Tetragnathidae)	353, pl. 26, f. 254 (mf), Epeira celata
+Metellina segmentata (Clerck, 1757) (Tetragnathidae)	354, pl. 26, f. 255 (mf), Epeira inclinata
+Zilla diodia (Walckenaer, 1802) (Araneidae)	355, pl. 26, f. 256 (m), Epeira albimacula
+Hypsosinga pygmaea (Sundevall, 1831) (Araneidae)	357, pl. 26, f. 257 (m), Epeira anthracina
+Araneus diadematus Clerck, 1757 (Araneidae)	358, pl. 26, f. 258 (mf), Epeira diademata
+Araneus angulatus Clerck, 1757 (Araneidae)	360, pl. 27, f. 259 (mf), Epeira angulata
+Gibbaranea gibbosa (Walckenaer, 1802) (Araneidae)	361, pl. 27, f. 260 (mf), Epeira bicornis
+Cyclosa conica (Pallas, 1772) (Araneidae)	362, pl. 27, f. 261 (mf), Epeira conica
+Singa hamata (Clerck, 1757) (Araneidae)	364, pl. 28, f. 262 (mf), Epeira tubulosa
+Hypsosinga albovittata (Westring, 1851) (Araneidae)	365, pl. 27, f. 263 (f), Epeira calva
+Hypsosinga pygmaea (Sundevall, 1831) (Araneidae)	366, pl. 27, f. 264 (misidentified), Epeira herii
+Tetragnatha extensa (Linnaeus, 1758) (Tetragnathidae)	367, pl. 28, f. 265 (mf), Tetragnatha extensa
+Dysdera erythrina (Walckenaer, 1802) (Dysderidae)	370, pl. 28, f. 266 (mf), Dysdera erythrina
+Dysdera crocata C. L. Koch, 1838 (Dysderidae)	371, pl. 28, f. 371 (m; misidentified per Simon, 1914: 111), Dysdera rubicunda
+Harpactea hombergi (Scopoli, 1763) (Dysderidae)	371, pl. 28, f. 268 (mf), Dysdera hombergi
+Segestria florentina (Rossi, 1790) (Segestriidae)	373, pl. 28, f. 269 (f), Segestria perfida
+Segestria senoculata (Linnaeus, 1758) (Segestriidae)	374, pl. 28, f. 270 (mf), Segestria senoculata
+Schoenobates walkeri Blackwall, 1850 (Linyphiidae)	376, (Dm), Schaenobates walkeri
+Oonops pulcher Templeton, 1835 (Oonopidae)	377, pl. 29, f. 271 (Dm, S of Deletrix exilis), Oonops pulcher
+
+Sponsors
+
+World Spider Catalog, 2026
+
+Natural History Museum Bern
+
+ 

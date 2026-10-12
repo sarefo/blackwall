@@ -44,7 +44,22 @@ $PY -I scripts/zoom.py P X0 Y0 X1 Y1              # full-res region with compone
 $PY -I /c/dev/koch/scripts/crop.py 1 2 ...        # work/crops
 $PY -I scripts/sheet.py P                         # work/sheets/PPP.jpg contact sheet
 $PY -I /c/dev/koch/scripts/tight.py auto 1 2 ...  # work/tight + data/tight masks
+$PY -I /c/dev/koch/scripts/wsc_included.py 302 328   # data/wsc: WSC "taxa included" for Part I and Part II
+$PY -I scripts/build_table.py                     # data/figures.csv
 ```
+
+`build_table.py` writes `data/figures.csv` in the Koch schema: one row per crop, the printed name from
+the description page, the current name from WSC (ref 302 = Part I, plates 1-12, 1861; ref 328 = Part II,
+plates 13-29, 1864). It matches on the printed name, then on the figure number when the spelling differs
+(the `notes` column says so where WSC prints a different name). `data/manual_names.json` holds the names
+WSC does not list (from GBIF) and the three insects on plate XII. Review columns survive rebuilds.
+
+## Review
+
+`review.cmd` starts the shared review app (`C:\dev\koch\scripts\review_app.py`) on
+http://localhost:8778 with `PLATE_PROJECT` set to this folder; `data/project.json` sets its labels.
+Ticks and comments go into `data/figures.csv`; the wide and tight editors write `data/wide`,
+`data/tight` and `data/crop_fixes.json` here, as in the Koch project.
 
 Pale line drawings (palps, eyes) are cut with `_box`, because they fall apart into many small
 components and partly stay below the ink threshold. A box paints out nothing, so faint
@@ -53,8 +68,9 @@ the rest needs hand cleanup.
 
 ## Status (2026-10-12)
 
-All 29 plates cut: 1094 wide crops and first-guess tight crops. Not reviewed yet. No names
-mapped to WSC yet, nothing uploaded.
+All 29 plates cut: 1094 wide crops and first-guess tight crops, every figure named (WSC, or GBIF for
+four names WSC does not list). Not reviewed yet, nothing uploaded. The Commons file names in the table
+(`Blackwall 1861 Spiders of Great Britain pl. 1 fig. 1a Atypus Sulzeri.jpg`) are a draft.
 
 ## Plate and description disagree (check in review)
 

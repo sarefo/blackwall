@@ -1,0 +1,58 @@
+{
+ "2/11": {
+  "modern_taxon": "Pardosa pullata",
+  "modern_full": "Pardosa pullata (Clerck, 1757)",
+  "family": "Lycosidae",
+  "name_source": "GBIF",
+  "name_note": "Lycosa obscura Blackwall, 1841 is a synonym; not in the WSC list for ref 302"
+ },
+ "3/11": {
+  "modern_taxon": "Pardosa pullata",
+  "modern_full": "Pardosa pullata (Clerck, 1757)",
+  "family": "Lycosidae",
+  "name_source": "GBIF",
+  "name_note": "Lycosa obscura Blackwall, 1841 is a synonym; not in the WSC list for ref 302"
+ },
+ "4/52": {
+  "modern_taxon": "Ozyptila claveata",
+  "modern_full": "Ozyptila claveata (Walckenaer, 1837)",
+  "family": "Thomisidae",
+  "name_source": "GBIF",
+  "name_note": "Thomisus claveatus Walckenaer, 1837 is a synonym; not in the WSC list for ref 302"
+ },
+ "29/272": {
+  "modern_taxon": "Scytodes thoracica",
+  "modern_full": "Scytodes thoracica (Latreille, 1802)",
+  "family": "Scytodidae",
+  "name_source": "GBIF",
+  "name_note": "not in the WSC list for ref 328"
+ },
+ "6/67": {
+  "modern_taxon": "Scotophaeus blackwalli",
+  "modern_full": "Scotophaeus blackwalli (Thorell, 1871)",
+  "family": "Gnaphosidae",
+  "name_source": "WSC ref 302",
+  "name_note": "WSC: f; misidentified per Thorell, 1871a: 179; in part also Scotophaeus quadripunctatus (Linnaeus, 1758)"
+ },
+ "12/AA": {
+  "modern_taxon": "",
+  "modern_full": "",
+  "family": "Ichneumonidae",
+  "name_source": "",
+  "name_note": "not a spider: ichneumon parasite of Agelena brunnea (Agroeca brunnea); Pezomachus fasciatus, current name not resolved"
+ },
+ "12/BB": {
+  "modern_taxon": "Bathythrix formosa",
+  "modern_full": "Bathythrix formosa (Desvignes, 1860)",
+  "family": "Ichneumonidae",
+  "name_source": "GBIF",
+  "name_note": "not a spider: ichneumon parasite of Agelena brunnea (Agroeca brunnea); Hemiteles formosus Desvignes, 1860 is a synonym"
+ },
+ "12/CC": {
+  "modern_taxon": "Priocnemis perturbator",
+  "modern_full": "Priocnemis perturbator (Harris, 1780)",
+  "family": "Pompilidae",
+  "name_source": "GBIF",
+  "name_note": "not a spider: spider-hunting wasp; Pompilus sepicola Smith, 1851 is a synonym"
+ }
+}
