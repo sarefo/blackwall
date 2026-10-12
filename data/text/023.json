@@ -1,0 +1,50 @@
+{
+ "plate": 23,
+ "roman": "XXIII",
+ "title": "EPËIRA.",
+ "figures": [
+  {
+   "fig": 236,
+   "name": "Epëira quadrata",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "♀, variety",
+    "d": "♀, natural size",
+    "e": "profile of cephalo-thorax and falx",
+    "f": "♂, natural size",
+    "g": "termination of tarsus, showing claws and toothed hairs",
+    "h": "tarsus, showing hairs, &c.",
+    "j": "front view of cephalo-thorax and falces",
+    "k": "palpus of ♂, in two positions",
+    "l": "palpus of ♂, in two positions; the figure to the right of l represents the underside of the falces, maxillæ, labium and sternum"
+   }
+  },
+  {
+   "fig": 237,
+   "name": "Epëira apoclisa",
+   "drawings": {
+    "a": "♀",
+    "b": "♀, variety",
+    "c": "♂",
+    "d": "♂, variety",
+    "e": "palpus of ♂ in two positions",
+    "f": "palpus of ♂ in two positions",
+    "g": "♂, natural size",
+    "h": "♀, natural size"
+   }
+  },
+  {
+   "fig": 238,
+   "name": "Epëira sericata",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "♀, natural size",
+    "d": "palpus of ♂ in three positions",
+    "e": "palpus of ♂ in three positions",
+    "f": "palpus of ♂ in three positions"
+   }
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "plate": 22,
+ "roman": "XXII",
+ "title": "WALCKENÄERA. PACHYGNATHA. NERIENE.",
+ "figures": [
+  {
+   "fig": 229,
+   "name": "Walckenäera fastigata",
+   "drawings": {
+    "a": "♂",
+    "b": "profile of cephalo-thorax"
+   }
+  },
+  {
+   "fig": 230,
+   "name": "Walckenäera nemoralis",
+   "drawings": {
+    "a": "♂",
+    "b": "profile of cephalo-thorax",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 231,
+   "name": "Walckenäera ludicra",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions",
+    "e": "front view of cephalo-thorax and falces",
+    "f": "profile of cephalo-thorax and falx"
+   }
+  },
+  {
+   "fig": 232,
+   "name": "Walckenäera frontata",
+   "drawings": {
+    "a": "♂",
+    "b": "front view of cephalo-thorax and falces",
+    "c": "profile of cephalo-thorax",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 233,
+   "name": "Pachygnatha Clerckii",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "profile of cephalo-thorax and falx",
+    "d": "falces, maxillæ, labium, and sternum",
+    "e": "front view of falces and eyes",
+    "f": "palpus of ♂ in two positions",
+    "g": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 234,
+   "name": "Pachygnatha Listeri",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 235,
+   "name": "Pachygnatha Degeerii",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": "A",
+   "name": "Walckenäera punctata",
+   "drawings": {
+    "a": "profile of cephalo-thorax and falx",
+    "b": "palpus of ♂ in two positions",
+    "c": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": "B",
+   "name": "Neriene tuberosa",
+   "drawings": {
+    "a": "profile of cephalo-thorax and falx",
+    "b": "palpus of ♂ in two positions",
+    "c": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": "C",
+   "name": "Neriene longipalpis",
+   "drawings": {
+    "a": "palpus of ♂, upper side",
+    "b": "palpus of ♂, under side",
+    "c": "palpus of ♂, outside profile"
+   }
+  },
+  {
+   "fig": "D",
+   "name": "Neriene agrestis",
+   "drawings": {
+    "a": "palpus of ♂, under side",
+    "b": "palpus of ♂, outside profile",
+    "c": "palpus of ♂, upper side"
+   }
+  },
+  {
+   "fig": "E",
+   "name": "Neriene fusca",
+   "drawings": {
+    "a": "palpus of ♂, under side",
+    "b": "palpus of ♂, upper side",
+    "c": "palpus of ♂, outside profile"
+   }
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "plate": 29,
+ "roman": "XXIX",
+ "title": "SEGESTRIA. OONOPS. SCYTODES.",
+ "figures": [
+  {
+   "fig": 270,
+   "name": "Segestria senoculata",
+   "drawings": {
+    "a": "♀",
+    "b": "♀, natural size",
+    "c": "profile of cephalo-thorax, and falx",
+    "d": "front view of cephalo-thorax, and falces"
+   }
+  },
+  {
+   "fig": 271,
+   "name": "Oonops pulcher",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "position of eyes on cephalo-thorax",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions",
+    "f": "maxillæ, labium, and sternum"
+   }
+  },
+  {
+   "fig": 272,
+   "name": "Scytodes thoracica",
+   "drawings": {
+    "a": "♀",
+    "b": "maxillæ, labium, and sternum",
+    "c": "♀, natural size",
+    "d": "profile of cephalo-thorax",
+    "e": "front view of cephalo-thorax"
+   }
+  }
+ ]
+}

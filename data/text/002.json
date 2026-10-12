@@ -1,0 +1,109 @@
+{
+ "plate": 2,
+ "roman": "II",
+ "title": "LYCOSA. DOLOMEDES.",
+ "figures": [
+  {
+   "fig": 9,
+   "name": "Lycosa saccata",
+   "drawings": {
+    "a": "♀; the female is shown with a cocoon attached in the position in which she carries it about with her",
+    "b": "♂"
+   }
+  },
+  {
+   "fig": 10,
+   "name": "Lycosa lugubris",
+   "drawings": {
+    "a": "♀",
+    "b": "♂"
+   }
+  },
+  {
+   "fig": 11,
+   "name": "Lycosa obscura",
+   "drawings": {
+    "a": "♀",
+    "b": "♂"
+   }
+  },
+  {
+   "fig": 12,
+   "name": "Lycosa exigua",
+   "drawings": {
+    "a": "♀, with attached cocoon",
+    "b": "♂"
+   }
+  },
+  {
+   "fig": 13,
+   "name": "Lycosa fluviatilis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "cocoon"
+   }
+  },
+  {
+   "fig": 14,
+   "name": "Lycosa cambrica",
+   "drawings": {
+    "a": "♀, with cocoon",
+    "b": "♂",
+    "c": "maxillæ and labium",
+    "d": "cocoon detached, showing suture"
+   }
+  },
+  {
+   "fig": 15,
+   "name": "Lycosa latitans",
+   "drawings": {
+    "a": "♀",
+    "b": "♂"
+   }
+  },
+  {
+   "fig": 16,
+   "name": "Lycosa piratica",
+   "drawings": {
+    "a": "♀",
+    "b": "♂"
+   }
+  },
+  {
+   "fig": 17,
+   "name": "Lycosa piscatoria",
+   "drawings": {
+    "a": "♀",
+    "b": "♂"
+   }
+  },
+  {
+   "fig": 18,
+   "name": "Dolomedes mirabilis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "parts of the mouth, with sternum and palpus of ♀",
+    "e": "outline of cephalo-thorax and abdomen, from above",
+    "f": "palpal organs of ♂, from below",
+    "g": "the same in profile"
+   }
+  },
+  {
+   "fig": 19,
+   "name": "Dolomedes ornatus",
+   "drawings": {
+    "": "♀, jun."
+   }
+  },
+  {
+   "fig": 20,
+   "name": "Dolomedes fimbriatus",
+   "drawings": {
+    "": "♀"
+   }
+  }
+ ]
+}

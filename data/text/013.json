@@ -1,0 +1,97 @@
+{
+ "plate": 13,
+ "roman": "XIII",
+ "title": "THERIDION.",
+ "figures": [
+  {
+   "fig": 111,
+   "name": "Theridion lineatum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "♀, varieties",
+    "d": "♀, varieties",
+    "e": "♂, variety",
+    "f": "♀, showing position when suspended",
+    "g": "cephalo-thorax and abdomen of ♀, in profile",
+    "h": "position of eyes on ceph.",
+    "i": "maxillæ, labium and sternum",
+    "k": "falces of ♂",
+    "l": "cocoon in situ on leaf",
+    "": "the two figures without letters are the palpus of the ♂, and the falces of the ♀"
+   }
+  },
+  {
+   "fig": 112,
+   "name": "Theridion quadripunctatum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 113,
+   "name": "Theridion Sisyphum",
+   "drawings": {
+    "a": "♀",
+    "b": "♀, variety",
+    "c": "♀, variety",
+    "d": "♂",
+    "e": "cocoons, of the natural size"
+   }
+  },
+  {
+   "fig": 114,
+   "name": "Theridion tepidariorum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂, in different positions",
+    "d": "palpus of ♂, in different positions",
+    "e": "cocoons of the natural size"
+   }
+  },
+  {
+   "fig": 115,
+   "name": "Theridion riparium",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 116,
+   "name": "Theridion nervosum",
+   "drawings": {
+    "a": "♀",
+    "b": "♀, variety",
+    "c": "♂",
+    "d": "palpus of ♂",
+    "e": "cocoon in situ on leaf"
+   }
+  },
+  {
+   "fig": 117,
+   "name": "Theridion pictum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "cocoons of the natural size in situ"
+   }
+  },
+  {
+   "fig": 118,
+   "name": "Theridion denticulatum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "♀, variety",
+    "d": "♂, variety",
+    "e": "palpus of ♂"
+   }
+  }
+ ]
+}

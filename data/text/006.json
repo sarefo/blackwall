@@ -1,0 +1,121 @@
+{
+ "plate": 6,
+ "roman": "VI",
+ "title": "DRASSUS.",
+ "figures": [
+  {
+   "fig": 62,
+   "name": "Drassus lucifugus",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 63,
+   "name": "Drassus ater",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂",
+    "d": "cocoons; the white one still contains eggs; from the pink-coloured one the young spiders have made their exit"
+   }
+  },
+  {
+   "fig": 64,
+   "name": "Drassus pusillus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂",
+    "d": "the spine, as seen from the side"
+   }
+  },
+  {
+   "fig": 65,
+   "name": "Drassus pumilus",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 66,
+   "name": "Drassus clavator",
+   "drawings": {
+    "a": "immature ♀",
+    "b": "♂",
+    "c": "palpal organs of ♂",
+    "d": "digital organs, from above, to show the position of the large radial apophysis"
+   }
+  },
+  {
+   "fig": 67,
+   "name": "Drassus cericeus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 68,
+   "name": "Drassus sylvestris",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 69,
+   "name": "Drassus cupreus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "maxillæ and labium",
+    "e": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 70,
+   "name": "Drassus lapidicolens",
+   "drawings": {
+    "": "♂",
+    "a": "palpal organs"
+   }
+  },
+  {
+   "fig": 71,
+   "name": "Drassus ferrugineus",
+   "drawings": {
+    "": "♀",
+    "a": "maxillæ, labium, and palpus",
+    "b": "eyes"
+   }
+  },
+  {
+   "fig": 72,
+   "name": "Drassus micans",
+   "drawings": {
+    "": "♂",
+    "a": "palpal organs"
+   }
+  },
+  {
+   "fig": 73,
+   "name": "Drassus nitens",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 74,
+   "name": "Drassus propinquus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  }
+ ]
+}

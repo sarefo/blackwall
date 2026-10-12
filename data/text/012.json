@@ -1,0 +1,105 @@
+{
+ "plate": 12,
+ "roman": "XII",
+ "title": "TEGENARIA. CŒLOTES. TEXTRIX.",
+ "figures": [
+  {
+   "fig": 107,
+   "name": "Tegenaria civilis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes and falces",
+    "d": "maxillæ, labium, and sternum",
+    "e": "cephalo-thorax and abdomen, in profile",
+    "f": "palpus of ♂",
+    "g": "claws"
+   }
+  },
+  {
+   "fig": 108,
+   "name": "Tegenaria silvicola",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 109,
+   "name": "Cœlotes saxatilis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes and falces",
+    "d": "parts of the mouth",
+    "e": "palpus of ♂",
+    "f": "lateral view of spinners",
+    "g": "claws",
+    "h": "cocoons, of the natural size, with particles of earth deposited by the spider on the upper surface"
+   }
+  },
+  {
+   "fig": 110,
+   "name": "Textrix lycosina",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes and falces",
+    "d": "parts of the mouth",
+    "e": "cephalo-thorax with falx, profile view",
+    "f": "palpus of ♂",
+    "g": "palpal organs in profile"
+   }
+  },
+  {
+   "fig": 6,
+   "name": "Lycosa herbigrada",
+   "drawings": {
+    "a": "♂",
+    "b": "palpal organs of ditto"
+   }
+  },
+  {
+   "fig": 35,
+   "name": "Salticus tardigradus",
+   "drawings": {
+    "b": "♀"
+   }
+  },
+  {
+   "fig": 58,
+   "name": "Philodromus cespiticolis",
+   "drawings": {
+    "h": "cocoon in situ on calluna, slightly enlarged"
+   }
+  },
+  {
+   "fig": 102,
+   "name": "Angelena brunnea",
+   "drawings": {
+    "d": "cocoon, attached to moss, in its unfinished state, previous to its being plastered with mud, as shown in Fig. e, slightly enlarged",
+    "e": "cocoon plastered with mud (referred to in the description of d)"
+   }
+  },
+  {
+   "fig": "AA",
+   "name": "Hemeteles fasciatus",
+   "drawings": {
+    "": "wingless ♀; a figure of the male will be given in a subsequent Plate"
+   }
+  },
+  {
+   "fig": "BB",
+   "name": "Hemeteles formosus. Desv.",
+   "drawings": {
+    "": "These two ichneumons are parasites of Angelena brunnea. They are described by Mr. F. Smith, in the 'Transactions of the Entomological Society,' for the year 1860"
+   }
+  },
+  {
+   "fig": "CC",
+   "name": "Pompilus sepicola. F. Smith.",
+   "drawings": {
+    "": "(P. fuscus. Fabr., not of Linn.) A large ichneumon, which, after paralysing spiders by piercing them with its ovipositor, conveys them to its nidus as food for its young"
+   }
+  }
+ ]
+}

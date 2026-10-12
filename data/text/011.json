@@ -1,0 +1,45 @@
+{
+ "plate": 11,
+ "roman": "XI",
+ "title": "TEGENARIA.",
+ "figures": [
+  {
+   "fig": 105,
+   "name": "Tegenaria domestica",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂",
+    "d": "the same in profile"
+   }
+  },
+  {
+   "fig": 106,
+   "name": "Tegenaria atrica",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂",
+    "d": "the same in profile",
+    "e": "spine enlarged",
+    "f": "portion of the same, still more magnified",
+    "g": "compound sessile hair",
+    "h": "portion of integument of leg, showing sockets of the hairs and spines"
+   }
+  },
+  {
+   "fig": 24,
+   "name": "Salticus scenicus",
+   "drawings": {
+    "k": "hair from a scopula, much enlarged"
+   }
+  },
+  {
+   "fig": 69,
+   "name": "Drassus cupreus",
+   "drawings": {
+    "f": "papillæform hair from the tarsus, highly magnified"
+   }
+  }
+ ]
+}

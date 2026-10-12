@@ -1,0 +1,65 @@
+{
+ "plate": 8,
+ "roman": "VIII",
+ "title": "CLUBIONA. ARGYRONETA.",
+ "figures": [
+  {
+   "fig": 82,
+   "name": "Clubiona pallens",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 83,
+   "name": "Clubiona accentuata",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂, from below",
+    "d": "radial joint from the outer side"
+   }
+  },
+  {
+   "fig": 84,
+   "name": "Clubiona domestica",
+   "drawings": {
+    "": "♀, jun."
+   }
+  },
+  {
+   "fig": 85,
+   "name": "Clubiona nutrix",
+   "drawings": {
+    "": "♂",
+    "a": "palpus, with palpal organs of ♂; under surface",
+    "b": "lateral view of the radial and digital joints, with the palpal organs"
+   }
+  },
+  {
+   "fig": 86,
+   "name": "Clubiona erratica",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 87,
+   "name": "Argyroneta aquatica",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "maxillæ, labium, and falces (the long hairs, with which these parts are profusely covered, are omitted)",
+    "e": "palpal organs of ♂",
+    "f": "the same, from the inner side",
+    "g": "cocoon, from above",
+    "h": "the same in profile"
+   }
+  }
+ ]
+}

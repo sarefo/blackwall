@@ -1,0 +1,92 @@
+{
+ "plate": 26,
+ "roman": "XXVI",
+ "title": "EPËIRA.",
+ "figures": [
+  {
+   "fig": 252,
+   "name": "Epëira fusca",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "♀, natural size",
+    "d": "palpus of ♂, under side",
+    "e": "palpus of ♂, outside profile",
+    "f": "extremity of process in palpal organ of ♂",
+    "g": "cocoon, natural size"
+   }
+  },
+  {
+   "fig": 253,
+   "name": "Epëira antriada",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "♀, natural size",
+    "d": "palpus of ♂, outside profile",
+    "e": "palpus of ♂, inside profile",
+    "f": "palpus of ♂, under side"
+   }
+  },
+  {
+   "fig": 254,
+   "name": "Epëira celata",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "natural size (printed, not lettered in the description)",
+    "d": "palpus of ♂, outside profile",
+    "e": "palpus of ♂, inside profile",
+    "f": "palpus of ♂, under side"
+   }
+  },
+  {
+   "fig": 255,
+   "name": "Epëira inclinata",
+   "drawings": {
+    "a": "♀",
+    "b": "♀, variety",
+    "c": "♂",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions",
+    "f": "♀, natural size"
+   }
+  },
+  {
+   "fig": 256,
+   "name": "Epëira albimacula",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "♀, natural size",
+    "d": "palpus of ♂, under side",
+    "e": "palpus of ♂, upper side"
+   }
+  },
+  {
+   "fig": 257,
+   "name": "Epëira anthracina",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂, under side",
+    "c": "palpus of ♂, outside profile",
+    "d": "palpus of ♂, upper side"
+   }
+  },
+  {
+   "fig": 258,
+   "name": "Epëira diadema",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "♀, natural size",
+    "d": "♀, variety",
+    "e": "front view of sexual organs of ♀",
+    "f": "profile of sexual organs of ♀",
+    "g": "palpus of ♂, under side",
+    "h": "palpus of ♂, upper side",
+    "j": "tibial joint of second pair of legs of ♂, showing spines"
+   }
+  }
+ ]
+}

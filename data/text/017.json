@@ -1,0 +1,108 @@
+{
+ "plate": 17,
+ "roman": "XVII",
+ "title": "LINYPHIA. NERIENE.",
+ "figures": [
+  {
+   "fig": 157,
+   "name": "Linyphia alacris",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "♀, variety"
+   }
+  },
+  {
+   "fig": 158,
+   "name": "Linyphia nasata",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 159,
+   "name": "Linyphia ericæa",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 160,
+   "name": "Linyphia insignis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "cephalo-thorax and abdomen in profile"
+   }
+  },
+  {
+   "fig": 161,
+   "name": "Linyphia albula",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 162,
+   "name": "Linyphia obscura",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 163,
+   "name": "Linyphia gracilis",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 164,
+   "name": "Linyphia tenella",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 165,
+   "name": "Linyphia circumspecta",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 166,
+   "name": "Linyphia flavipes",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 167,
+   "name": "Neriene marginata",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 168,
+   "name": "Neriene bicolor",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  }
+ ]
+}

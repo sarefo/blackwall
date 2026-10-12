@@ -1,0 +1,87 @@
+{
+ "plate": 27,
+ "roman": "XXVII",
+ "title": "EPËIRA. TETRAGNATHA.",
+ "figures": [
+  {
+   "fig": 259,
+   "name": "Epëira angulata",
+   "drawings": {
+    "a": "♀",
+    "b": "♀, side view",
+    "c": "sexual organs of ♀",
+    "d": "♂",
+    "e": "♀, natural size"
+   }
+  },
+  {
+   "fig": 260,
+   "name": "Epëira bicornis",
+   "drawings": {
+    "a": "♂",
+    "b": "♀, natural size",
+    "c": "♀",
+    "d": "side view of ♀",
+    "e": "abdomen of ♂, showing exact pattern of markings",
+    "f": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 261,
+   "name": "Epëira conica",
+   "drawings": {
+    "a": "♀",
+    "b": "♀, variety",
+    "c": "♀, natural size",
+    "d": "♂",
+    "e": "palpus of ♂",
+    "f": "front view of falces, cephalo-thorax, and eyes"
+   }
+  },
+  {
+   "fig": 262,
+   "name": "Epëira tubulosa",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂, under side",
+    "d": "palpus of ♂, outside profile",
+    "e": "♀, natural size",
+    "f": "web and cocoon, natural size"
+   }
+  },
+  {
+   "fig": 263,
+   "name": "Epëira calva",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂, outside profile",
+    "d": "palpus of ♂, under side"
+   }
+  },
+  {
+   "fig": 264,
+   "name": "Epëira Herii",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "♀, natural size"
+   }
+  },
+  {
+   "fig": 265,
+   "name": "Tetragnatha extensa",
+   "drawings": {
+    "a": "♂",
+    "b": "♂, variety",
+    "c": "♀, in natural position",
+    "d": "♀",
+    "e": "palpus of ♂ in two positions",
+    "f": "palpus of ♂ in two positions",
+    "g": "falces, maxillæ, labium, and sternum",
+    "h": "side view of falces and eyes of ♂"
+   }
+  }
+ ]
+}

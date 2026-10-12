@@ -1,0 +1,82 @@
+{
+ "plate": 9,
+ "roman": "IX",
+ "title": "CINIFLO. ERGATIS.",
+ "figures": [
+  {
+   "fig": 88,
+   "name": "Ciniflo atrox",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "maxillæ, labium, and falces",
+    "e": "spinners",
+    "f": "palpal organs of ♂",
+    "g": "the same in profile",
+    "h": "hind leg, showing the calamistrum",
+    "i": "calamistrum more enlarged"
+   }
+  },
+  {
+   "fig": 89,
+   "name": "Ciniflo similis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂",
+    "d": "the same in profile"
+   }
+  },
+  {
+   "fig": 90,
+   "name": "Ciniflo ferox",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "♀, a very dark variety",
+    "d": "palpal organs of ♂",
+    "e": "upper surface of radial and digital joints",
+    "f": "the same in profile, from the outer side"
+   }
+  },
+  {
+   "fig": 91,
+   "name": "Ciniflo mordax",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 92,
+   "name": "Ciniflo humilis",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 93,
+   "name": "Ergatis benigna",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "parts of the mouth",
+    "e": "cephalo-thorax and falces of male, in profile",
+    "f": "spinners",
+    "g": "palpus of ♂",
+    "h": "palpal organs in profile",
+    "i": "cocoons, slightly enlarged, attached to Carex cæspitosa"
+   }
+  },
+  {
+   "fig": 95,
+   "name": "Ergatis latens",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "cocoons attached to calluna"
+   }
+  }
+ ]
+}

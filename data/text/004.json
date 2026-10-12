@@ -1,0 +1,159 @@
+{
+ "plate": 4,
+ "roman": "IV",
+ "title": "THOMISUS.",
+ "figures": [
+  {
+   "fig": 37,
+   "name": "Thomisus brevipes",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 38,
+   "name": "Thomisus cristatus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "maxillæ and lip",
+    "e": "lateral view of cephalo-thorax and abdomen, in outline",
+    "f": "claw of anterior leg",
+    "g": "claw of palpus",
+    "h": "male palpal organs"
+   }
+  },
+  {
+   "fig": 39,
+   "name": "Thomisus audax",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 40,
+   "name": "Thomisus erraticus",
+   "drawings": {
+    "": "♂",
+    "a": "palpal organs"
+   }
+  },
+  {
+   "fig": 41,
+   "name": "Thomisus sabulosus",
+   "drawings": {
+    "a": "♀, immature",
+    "b": "♂",
+    "c": "papal organs of ditto"
+   }
+  },
+  {
+   "fig": 42,
+   "name": "Thomisus atomarius",
+   "drawings": {
+    "": "♀, from a specimen in the collection of indigenous spiders at the British Museum"
+   }
+  },
+  {
+   "fig": 43,
+   "name": "Thomisus cinereus",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 44,
+   "name": "Thomisus floricolens",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ditto"
+   }
+  },
+  {
+   "fig": 45,
+   "name": "Thomisus luctuosus",
+   "drawings": {
+    "": "♂",
+    "a": "palpal organs"
+   }
+  },
+  {
+   "fig": 46,
+   "name": "Thomisus bifasciatus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "male palpal organs"
+   }
+  },
+  {
+   "fig": 47,
+   "name": "Thomisus Cambridgii",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 48,
+   "name": "Thomisus pallidus",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 49,
+   "name": "Thomisus versutus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "male palpal organs"
+   }
+  },
+  {
+   "fig": 50,
+   "name": "Thomisus trux",
+   "drawings": {
+    "": "♂",
+    "a": "palpal organs"
+   }
+  },
+  {
+   "fig": 51,
+   "name": "Thomisus incertus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "male palpal organs"
+   }
+  },
+  {
+   "fig": 52,
+   "name": "Thomisus claveatus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "male palpal organs"
+   }
+  },
+  {
+   "fig": 53,
+   "name": "Thomisus citreus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "ditto"
+   }
+  },
+  {
+   "fig": 54,
+   "name": "Thomisus abbreviatus",
+   "drawings": {
+    "": "♀",
+    "a": "side view of the cephalo-thorax, showing one of the projections on which the lateral eyes are seated",
+    "b": "frontal margin"
+   }
+  }
+ ]
+}

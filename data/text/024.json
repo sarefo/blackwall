@@ -1,0 +1,68 @@
+{
+ "plate": 24,
+ "roman": "XXIV",
+ "title": "EPËIRA.",
+ "figures": [
+  {
+   "fig": 239,
+   "name": "Epëira patagiata",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "♂, variety",
+    "d": "palpus of ♂, under side",
+    "e": "palpus of ♂, upper side",
+    "f": "palpus of ♂, outside profile",
+    "g": "♀, natural size"
+   }
+  },
+  {
+   "fig": 240,
+   "name": "Epëira scalaris",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂, upper side",
+    "d": "palpus of ♂, under side",
+    "e": "♀, natural size"
+   }
+  },
+  {
+   "fig": 241,
+   "name": "Epëira umbratica",
+   "drawings": {
+    "a": "♀",
+    "b": "♀, natural size",
+    "c": "♂",
+    "d": "palpus of ♂, under side",
+    "e": "palpus of ♂, upper side"
+   }
+  },
+  {
+   "fig": 242,
+   "name": "Epëira agalena",
+   "drawings": {
+    "a": "♂",
+    "b": "♂, natural size",
+    "c": "♀",
+    "d": "♀, natural size",
+    "e": "palpus of ♂, upper side",
+    "f": "palpus of ♂, under side (beneath e)"
+   }
+  },
+  {
+   "fig": 243,
+   "name": "Epëira solers",
+   "drawings": {
+    "a": "♀",
+    "b": "♀, natural size",
+    "c": "♀, variety, natural size",
+    "d": "♀, variety",
+    "e": "♂",
+    "f": "♂, variety",
+    "g": "palpus of ♂, inside profile",
+    "h": "palpus of ♂, under side"
+   }
+  }
+ ]
+}

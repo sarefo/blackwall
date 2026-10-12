@@ -1,0 +1,184 @@
+{
+ "plate": 14,
+ "roman": "XIV",
+ "title": "THERIDION.",
+ "figures": [
+  {
+   "fig": 119,
+   "name": "Theridion simile",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂, in two positions",
+    "d": "palpus of ♂, in two positions",
+    "e": "abdomen of ♀, under side"
+   }
+  },
+  {
+   "fig": 120,
+   "name": "Theridion varians",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "cocoons of natural size in situ"
+   }
+  },
+  {
+   "fig": 121,
+   "name": "Theridion tinctum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 122,
+   "name": "Theridion pulchellum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 123,
+   "name": "Theridion Carolinum",
+   "drawings": {
+    "a": "♀, with cocoon",
+    "b": "♀, varieties",
+    "c": "♀, varieties",
+    "d": "♂",
+    "e": "♂, a dark variety",
+    "f": "abdomen of ♀, in profile",
+    "g": "palpus of ♂, in different positions",
+    "h": "palpus of ♂, in different positions"
+   }
+  },
+  {
+   "fig": 124,
+   "name": "Theridion versutum",
+   "drawings": {
+    "": "♂",
+    "a": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 125,
+   "name": "Theridion pallens",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "cocoon of natural size in situ",
+    "e": "cocoon slightly magnified"
+   }
+  },
+  {
+   "fig": 126,
+   "name": "Theridion stictum",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 127,
+   "name": "Theridion inornatum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "cephalo-thorax, in profile"
+   }
+  },
+  {
+   "fig": 128,
+   "name": "Theridion auratum",
+   "drawings": {
+    "": "♀",
+    "a": "eyes"
+   }
+  },
+  {
+   "fig": 129,
+   "name": "Theridion hæmatostigma",
+   "drawings": {
+    "": "♀",
+    "a": "eyes"
+   }
+  },
+  {
+   "fig": 130,
+   "name": "Theridion albens",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 131,
+   "name": "Theridion guttatum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "cephalo-thorax, from above",
+    "e": "sternum"
+   }
+  },
+  {
+   "fig": 132,
+   "name": "Theridion flavo-maculatum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 133,
+   "name": "Theridion angulatum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 134,
+   "name": "Theridion variegatum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "sternum",
+    "e": "cocoons of natural size"
+   }
+  },
+  {
+   "fig": 135,
+   "name": "Theridion signatum",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂, in different positions",
+    "d": "palpus of ♂, in different positions",
+    "e": "cephalo-thorax, from above",
+    "f": "profile of spider, to show spines on legs and cephalo-thorax",
+    "g": "abdomen, in profile"
+   }
+  },
+  {
+   "fig": 136,
+   "name": "Theridion filipes",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂, in different positions",
+    "d": "palpus of ♂, in different positions",
+    "e": "palpus of ♂, in different positions",
+    "f": "abdomen of ♀, in profile"
+   }
+  }
+ ]
+}

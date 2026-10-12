@@ -1,0 +1,151 @@
+{
+ "plate": 21,
+ "roman": "XXI",
+ "title": "WALCKENÄERA.",
+ "figures": [
+  {
+   "fig": 215,
+   "name": "Walckenäera atra",
+   "drawings": {
+    "a": "♂",
+    "b": "profile of cephalo-thorax"
+   }
+  },
+  {
+   "fig": 216,
+   "name": "Walckenäera aggeris",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "profile of cephalo-thorax",
+    "d": "front view of cephalo-thorax and falces",
+    "e": "palpus of ♂ in two positions",
+    "f": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 217,
+   "name": "Walckenäera hiemalis",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "side view of cephalo-thorax and falces",
+    "d": "profile of cephalo-thorax and falx",
+    "e": "palpus of ♂ in two positions",
+    "f": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 218,
+   "name": "Walckenäera bifrons",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "side view of cephalo-thorax and falces",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 219,
+   "name": "Walckenäera parva",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "profile of cephalo-thorax"
+   }
+  },
+  {
+   "fig": 220,
+   "name": "Walckenäera exilis",
+   "drawings": {
+    "": "♂"
+   }
+  },
+  {
+   "fig": 221,
+   "name": "Walckenäera depressa",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "profile of abdomen, cephalo-thorax, falx, and maxilla",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 222,
+   "name": "Walckenäera pratensis",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions",
+    "e": "side view of cephalo-thorax, eyes and falces"
+   }
+  },
+  {
+   "fig": 223,
+   "name": "Walckenäera humilis",
+   "drawings": {
+    "a": "♂",
+    "b": "profile of cephalo-thorax and falx; (beneath it is a front view of cephalo-thorax and falces)",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 224,
+   "name": "Walckenäera cristata",
+   "drawings": {
+    "a": "♂",
+    "b": "profile of cephalo-thorax and falx",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 225,
+   "name": "Walckenäera antica",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions",
+    "e": "profile of cephalo-thorax and falx",
+    "f": "enlarged figure of anterior part of cephalo-thorax"
+   }
+  },
+  {
+   "fig": 226,
+   "name": "Walckenäera saxicola",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂ in three positions",
+    "d": "palpus of ♂ in three positions",
+    "e": "palpus of ♂ in three positions; profile of cephalo-thorax and falx"
+   }
+  },
+  {
+   "fig": 227,
+   "name": "Walckenäera pumila",
+   "drawings": {
+    "a": "♂",
+    "b": "profile of cephalo-thorax and falx",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 228,
+   "name": "Walckenäera picina",
+   "drawings": {
+    "a": "♂",
+    "b": "profile of cephalo-thorax and falx",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions"
+   }
+  }
+ ]
+}

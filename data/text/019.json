@@ -1,0 +1,159 @@
+{
+ "plate": 19,
+ "roman": "XIX",
+ "title": "NERIENE.",
+ "figures": [
+  {
+   "fig": 186,
+   "name": "Neriene graminicola",
+   "drawings": {
+    "a": "side view of cephalo-thorax and falces",
+    "b": "♀",
+    "c": "♂",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 187,
+   "name": "Neriene cornigera",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂ in two positions",
+    "c": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 188,
+   "name": "Neriene longipalpis",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "front view of cephalo-thorax and falces",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 189,
+   "name": "Neriene fusca",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂ in three positions",
+    "d": "palpus of ♂ in three positions",
+    "e": "palpus of ♂ in three positions"
+   }
+  },
+  {
+   "fig": 190,
+   "name": "Neriene agrestis",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂ in three positions",
+    "d": "palpus of ♂ in three positions",
+    "e": "palpus of ♂ in three positions"
+   }
+  },
+  {
+   "fig": 191,
+   "name": "Neriene vigilax",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂ in two positions",
+    "c": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 192,
+   "name": "Neriene tuberosa",
+   "drawings": {
+    "": "♂"
+   }
+  },
+  {
+   "fig": 193,
+   "name": "Neriene trilineata",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 194,
+   "name": "Neriene rubella",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions",
+    "c": "♀"
+   }
+  },
+  {
+   "fig": 195,
+   "name": "Neriene variegata",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 196,
+   "name": "Neriene pilosa",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 197,
+   "name": "Neriene pallidula",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 198,
+   "name": "Neriene carinata",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 199,
+   "name": "Neriene herbigrada",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 200,
+   "name": "Neriene abnormis",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 201,
+   "name": "Neriene rubripes",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 202,
+   "name": "Neriene dubia",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂"
+   }
+  }
+ ]
+}

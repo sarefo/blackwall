@@ -1,0 +1,99 @@
+{
+ "plate": 25,
+ "roman": "XXV",
+ "title": "EPËIRA.",
+ "figures": [
+  {
+   "fig": 244,
+   "name": "Epëira similis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂, in two positions",
+    "d": "palpus of ♂, in two positions",
+    "e": "♀, variety",
+    "f": "♀, showing position when suspended",
+    "g": "♀, natural size"
+   }
+  },
+  {
+   "fig": 245,
+   "name": "Epëira calophylla",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "♀, natural size"
+   }
+  },
+  {
+   "fig": 246,
+   "name": "Epëira acalypha",
+   "drawings": {
+    "a": "♀",
+    "b": "profile of ♀",
+    "c": "♂",
+    "d": "palpus of ♂",
+    "e": "♀, natural size"
+   }
+  },
+  {
+   "fig": 247,
+   "name": "Epëira cucurbitina",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "♀, natural size",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions",
+    "f": "cocoon in situ"
+   }
+  },
+  {
+   "fig": 248,
+   "name": "Epëira bella",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "♀, natural size",
+    "d": "palpus of ♂ in three positions",
+    "e": "palpus of ♂ in three positions",
+    "f": "palpus of ♂ in three positions"
+   }
+  },
+  {
+   "fig": 249,
+   "name": "Epëira lutea",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "sexual organs of ♀, in profile",
+    "d": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 250,
+   "name": "Epëira ceropegia",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂ in three positions",
+    "d": "tibia of second pair of legs of ♂, showing spines",
+    "e": "palpus of ♂ in three positions",
+    "f": "palpus of ♂ in three positions"
+   }
+  },
+  {
+   "fig": 251,
+   "name": "Epëira adianta",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "♀, natural size",
+    "d": "palpus of ♂ in three positions",
+    "e": "palpus of ♂ in three positions",
+    "f": "palpus of ♂ in three positions"
+   }
+  }
+ ]
+}

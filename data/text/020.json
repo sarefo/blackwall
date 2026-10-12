@@ -1,0 +1,130 @@
+{
+ "plate": 20,
+ "roman": "XX",
+ "title": "WALCKENÄERA.",
+ "figures": [
+  {
+   "fig": 203,
+   "name": "Walckenäera acuminata",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "front view of cephalo-thorax and falces of ♂",
+    "d": "side view of cephalo-thorax of ♂",
+    "e": "side view of cephalo-thorax of ♀",
+    "f": "falces, maxillæ, labium, and sternum of ♀",
+    "g": "front view of cephalo-thorax of ♀",
+    "h": "palpus of ♂ in two positions",
+    "i": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 204,
+   "name": "Walckenäera cuspidata",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "profile of cephalo-thorax and falx"
+   }
+  },
+  {
+   "fig": 205,
+   "name": "Walckenäera monoceros",
+   "drawings": {
+    "a": "♂",
+    "b": "profile of cephalo-thorax and falx",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 206,
+   "name": "Walckenäera Hardii",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂",
+    "c": "profile of cephalo-thorax and falx"
+   }
+  },
+  {
+   "fig": 207,
+   "name": "Walckenäera unicornis",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "profile of cephalo-thorax and falx",
+    "d": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 208,
+   "name": "Walckenäera obtusa",
+   "drawings": {
+    "a": "♂",
+    "b": "side view of cephalo-thorax and falces",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 209,
+   "name": "Walckenäera fuscipes",
+   "drawings": {
+    "a": "♂",
+    "b": "side view of cephalo-thorax and falces",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 210,
+   "name": "Walckenäera punctata",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "profile of cephalo-thorax"
+   }
+  },
+  {
+   "fig": 211,
+   "name": "Walckenäera parallela",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "profile of abdomen and cephalo-thorax",
+    "d": "front view of cephalo-thorax and falces",
+    "e": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 212,
+   "name": "Walckenäera obscura",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions",
+    "c": "profile of cephalo-thorax and falx"
+   }
+  },
+  {
+   "fig": 213,
+   "name": "Walckenäera flavipes",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions",
+    "e": "front view of cephalo-thorax and falces"
+   }
+  },
+  {
+   "fig": 214,
+   "name": "Walckenäera turgida",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "side view of cephalo-thorax"
+   }
+  }
+ ]
+}

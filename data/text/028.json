@@ -1,0 +1,68 @@
+{
+ "plate": 28,
+ "roman": "XXVIII",
+ "title": "DYSDERA. SEGESTRIA.",
+ "figures": [
+  {
+   "fig": 266,
+   "name": "Dysdera erythrina",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "profile of cephalo-thorax, and falx of ♂",
+    "d": "falces, maxillæ, labium, and sternum of ♂",
+    "e": "front view of cephalo-thorax, and falces of ♂",
+    "f": "palpus of ♂ in two positions",
+    "g": "palpus of ♂ in two positions",
+    "h": "natural size (printed on the plate, not in the description)"
+   }
+  },
+  {
+   "fig": 267,
+   "name": "Dysdera rubicunda",
+   "drawings": {
+    "a": "♂",
+    "b": "♂, natural size",
+    "c": "profile of falx, and part of cephalo-thorax of ♂",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions",
+    "f": "front view of falces and cephalo-thorax of ♂"
+   }
+  },
+  {
+   "fig": 268,
+   "name": "Dysdera Hombergii",
+   "drawings": {
+    "a": "♀",
+    "b": "front view of falces and eyes",
+    "c": "♀, natural size",
+    "d": "♂",
+    "e": "♂, natural size",
+    "f": "♂",
+    "g": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 269,
+   "name": "Segestria perfida",
+   "drawings": {
+    "a": "♀",
+    "b": "falces, maxillæ, labium, and sternum",
+    "c": "front view of falces and eyes",
+    "d": "profile of cephalo-thorax and falx",
+    "e": "♀, natural size (printed on the plate, not in the description)"
+   }
+  },
+  {
+   "fig": 270,
+   "name": "Segestria senoculata",
+   "drawings": {
+    "a": "♂",
+    "b": "♂, natural size",
+    "c": "♀",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions"
+   }
+  }
+ ]
+}

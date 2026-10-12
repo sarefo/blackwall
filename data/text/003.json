@@ -1,0 +1,254 @@
+{
+ "plate": 3,
+ "roman": "III",
+ "title": "LYCOSA. HECAERGE. SPHASUS. ERESUS. SALTICUS.",
+ "figures": [
+  {
+   "fig": 2,
+   "name": "Lycosa agretyca",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 3,
+   "name": "Lycosa campestris",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 5,
+   "name": "Lycosa rapax",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 7,
+   "name": "Lycosa allodroma",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 8,
+   "name": "Lycosa picta",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 9,
+   "name": "Lycosa saccata",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 10,
+   "name": "Lycosa lugubris",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below",
+    "a": "digital joint of the same side, with palpal organs, as seen from within"
+   }
+  },
+  {
+   "fig": 11,
+   "name": "Lycosa obscura",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 12,
+   "name": "Lycosa exigua",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 13,
+   "name": "Lycosa fluviatilis",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 14,
+   "name": "Lycosa cambrica",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 15,
+   "name": "Lycosa latitans",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 16,
+   "name": "Lycosa piratica",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 17,
+   "name": "Lycosa piscatoria",
+   "drawings": {
+    "": "Palpal organs and portion of left palpus of male, as seen from below"
+   }
+  },
+  {
+   "fig": 21,
+   "name": "Hecäerge spinimana",
+   "drawings": {
+    "a": "female",
+    "b": "male",
+    "c": "eyes",
+    "d": "maxillæ and labium",
+    "e": "claw",
+    "f": "palp of male"
+   }
+  },
+  {
+   "fig": 22,
+   "name": "Sphasus lineatus",
+   "drawings": {
+    "a": "female",
+    "b": "male",
+    "c": "eyes",
+    "d": "parts of mouth",
+    "e": "forepart of cephalo-thorax, from the side",
+    "f": "claw",
+    "g": "palpal organs, &c. of male"
+   }
+  },
+  {
+   "fig": 23,
+   "name": "Eresus cinnabarinus",
+   "drawings": {
+    "": "♀, from a specimen in the collection at the British Museum",
+    "a": "eyes",
+    "b": "maxillæ and labium"
+   }
+  },
+  {
+   "fig": 24,
+   "name": "Salticus scenicus",
+   "drawings": {
+    "a": "female",
+    "b": "male",
+    "c": "outline profile of cephalo-thorax and abdomen",
+    "d": "eyes",
+    "e": "falces, maxillæ, and labium of male",
+    "f": "outline profile of anterior part of cephalo-thorax of male, to show forward projection of the falces",
+    "g": "foot from below, to show appearance of scopula when in action",
+    "h": "the same from the side",
+    "i": "palpal organs, &c. of male"
+   }
+  },
+  {
+   "fig": 25,
+   "name": "Salticus sparsus",
+   "drawings": {
+    "a": "female",
+    "b": "male",
+    "c": "palpal organs, &c. of male"
+   }
+  },
+  {
+   "fig": 26,
+   "name": "Salticus coronatus",
+   "drawings": {
+    "a": "female",
+    "b": "male",
+    "c": "palpal organs, &c. of male"
+   }
+  },
+  {
+   "fig": 27,
+   "name": "Salticus frontalis",
+   "drawings": {
+    "a": "female",
+    "b": "male",
+    "c": "palpal organs, &c. of male"
+   }
+  },
+  {
+   "fig": 28,
+   "name": "Salticus obscurus",
+   "drawings": {
+    "": "male",
+    "a": "palpal organs, &c."
+   }
+  },
+  {
+   "fig": 29,
+   "name": "Salticus distinctus",
+   "drawings": {
+    "a": "female",
+    "b": "male",
+    "c": "palpal organs, &c. of male"
+   }
+  },
+  {
+   "fig": 30,
+   "name": "Salticus floricola",
+   "drawings": {
+    "": "male",
+    "a": "palpal organs, &c."
+   }
+  },
+  {
+   "fig": 31,
+   "name": "Salticus cupreus",
+   "drawings": {
+    "a": "female",
+    "b": "male",
+    "c": "palpal organs, &c. of male"
+   }
+  },
+  {
+   "fig": 32,
+   "name": "Salticus promptus",
+   "drawings": {
+    "": "immature female"
+   }
+  },
+  {
+   "fig": 33,
+   "name": "Salticus reticulatus",
+   "drawings": {
+    "a": "female",
+    "b": "male",
+    "c": "palpal organs, &c. of male"
+   }
+  },
+  {
+   "fig": 34,
+   "name": "Salticus Blackwallii",
+   "drawings": {
+    "": "female"
+   }
+  },
+  {
+   "fig": 35,
+   "name": "Salticus tardigradus",
+   "drawings": {
+    "": "male",
+    "a": "palpal organs, &c."
+   }
+  },
+  {
+   "fig": 36,
+   "name": "Salticus formicarius",
+   "drawings": {
+    "": "male, from a specimen in the collection of native spiders at the British Museum"
+   }
+  }
+ ]
+}

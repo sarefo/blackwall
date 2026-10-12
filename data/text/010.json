@@ -1,0 +1,97 @@
+{
+ "plate": 10,
+ "roman": "X",
+ "title": "ERGATIS. VELEDA. AGELENA.",
+ "figures": [
+  {
+   "fig": 94,
+   "name": "Ergatis pallens",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 96,
+   "name": "Veleda lineata",
+   "drawings": {
+    "": "♀, jun.",
+    "a": "eyes",
+    "b": "parts of the mouth"
+   }
+  },
+  {
+   "fig": 97,
+   "name": "Agelena labyrinthica",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "maxillæ and labium",
+    "e": "palpal organs of ♂",
+    "f": "spinners",
+    "g": "superior spinner in profile"
+   }
+  },
+  {
+   "fig": 98,
+   "name": "Agelena Hyndmanii",
+   "drawings": {
+    "": "♀",
+    "a": "eyes"
+   }
+  },
+  {
+   "fig": 99,
+   "name": "Agelena elegans",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of male, from the side",
+    "d": "palpal organs, from below",
+    "e": "spinners"
+   }
+  },
+  {
+   "fig": 100,
+   "name": "Agelena montana",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 101,
+   "name": "Agelena nava",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 102,
+   "name": "Agelena brunnea",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 103,
+   "name": "Agelena celans",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 104,
+   "name": "Agelena gracilipes",
+   "drawings": {
+    "": "♂",
+    "a": "palpal organs"
+   }
+  }
+ ]
+}

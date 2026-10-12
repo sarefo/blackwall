@@ -1,0 +1,111 @@
+{
+ "plate": 16,
+ "roman": "XVI",
+ "title": "LINYPHIA.",
+ "figures": [
+  {
+   "fig": 146,
+   "name": "Linyphia vivax",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 147,
+   "name": "Linyphia socialis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 148,
+   "name": "Linyphia crypticolens",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 149,
+   "name": "Linyphia alticeps",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "cephalo-thorax, in profile"
+   }
+  },
+  {
+   "fig": 150,
+   "name": "Linyphia longidens",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "abdomen of ♀, in profile"
+   }
+  },
+  {
+   "fig": 151,
+   "name": "Linyphia frenata",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂",
+    "d": "abdomen of ♀, in profile"
+   }
+  },
+  {
+   "fig": 152,
+   "name": "Linyphia tenuis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 153,
+   "name": "Linyphia terricola",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 154,
+   "name": "Linyphia Meadii",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 155,
+   "name": "Linyphia Claytoniæ",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "♀, varieties",
+    "d": "♀, varieties",
+    "e": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 156,
+   "name": "Linyphia pulla",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  }
+ ]
+}

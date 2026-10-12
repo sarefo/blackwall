@@ -1,0 +1,11 @@
+{"plate": 1, "roman": "I", "title": "ATYPUS. LYCOSA.",
+ "figures": [
+  {"fig": 1, "name": "Atypus Sulzeri", "drawings": {"a": "♀", "b": "♂", "c": "♀; profile view", "d": "the same from below", "e": "eyes", "f": "portion of leg", "g": "extremity of palpus of ♀", "h": "palpus with palpal organs of ♂"}},
+  {"fig": 2, "name": "Lycosa agretyca", "drawings": {"a": "♀", "b": "♂"}},
+  {"fig": 3, "name": "Lycosa campestris", "drawings": {"a": "♀", "b": "♂", "c": "maxillæ and labium"}},
+  {"fig": 4, "name": "Lycosa andrenivora", "drawings": {"a": "♀", "b": "♂", "c": "cephalo-thorax and abdomen in profile", "d": "eyes", "e": "labium, maxillæ, &c.", "f": "claws with portion of leg", "g": "palpal organs of ♂"}},
+  {"fig": 5, "name": "Lycosa rapax", "drawings": {"a": "♀", "b": "♂"}},
+  {"fig": 6, "name": "Lycosa herbigrada", "drawings": {"": "♀"}},
+  {"fig": 7, "name": "Lycosa allodroma", "drawings": {"a": "♀", "b": "♂"}},
+  {"fig": 8, "name": "Lycosa picta", "drawings": {"a": "♀", "b": "♂"}}
+ ]}

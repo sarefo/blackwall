@@ -1,0 +1,69 @@
+{
+ "plate": 5,
+ "roman": "V",
+ "title": "PHILODROMUS. SPARASSUS.",
+ "figures": [
+  {
+   "fig": 55,
+   "name": "Philodromus dispar",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 56,
+   "name": "Philodromus pallidus",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 57,
+   "name": "Philodromus elegans",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 58,
+   "name": "Philodromus cespiticolis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "maxillæ and labium",
+    "e": "cephalo-thorax and abdomen, from the side",
+    "f": "claw and scopula",
+    "g": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 59,
+   "name": "Philodromus aureolus",
+   "drawings": {
+    "": "♀"
+   }
+  },
+  {
+   "fig": 60,
+   "name": "Philodromus oblongus",
+   "drawings": {
+    "a": "♀",
+    "b": "immature ♂"
+   }
+  },
+  {
+   "fig": 61,
+   "name": "Sparassus smaragdulus",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "maxillæ and labium",
+    "e": "palpal organs of ♂"
+   }
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "plate": 7,
+ "roman": "VII",
+ "title": "CLUBIONA.",
+ "figures": [
+  {
+   "fig": 75,
+   "name": "Clubiona holosericea",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "maxillæ, labium, and falces",
+    "e": "profile of cephalo-thorax and abdomen",
+    "f": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 76,
+   "name": "Clubiona amarantha",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  },
+  {
+   "fig": 77,
+   "name": "Clubiona epimelas",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂, from below"
+   }
+  },
+  {
+   "fig": 78,
+   "name": "Clubiona formosa",
+   "drawings": {
+    "": "♀",
+    "a": "eyes of the same"
+   }
+  },
+  {
+   "fig": 79,
+   "name": "Clubiona corticalis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂, from below",
+    "d": "the same in profile, as seen from the inner side",
+    "e": "extremity of radial joint of the same palpus, from without"
+   }
+  },
+  {
+   "fig": 80,
+   "name": "Clubiona brevipes",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂, from below",
+    "d": "as in the last figure",
+    "e": "as in the last figure"
+   }
+  },
+  {
+   "fig": 81,
+   "name": "Clubiona comta",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpal organs of ♂"
+   }
+  }
+ ]
+}

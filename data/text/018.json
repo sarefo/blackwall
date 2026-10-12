@@ -1,0 +1,175 @@
+{
+ "plate": 18,
+ "roman": "XVIII",
+ "title": "NERIENE.",
+ "figures": [
+  {
+   "fig": 169,
+   "name": "Neriene livida",
+   "drawings": {
+    "a": "palpus of ♂",
+    "b": "♂",
+    "c": "♀"
+   }
+  },
+  {
+   "fig": 170,
+   "name": "Neriene errans",
+   "drawings": {
+    "a": "palpus of ♂",
+    "b": "♂",
+    "c": "♀"
+   }
+  },
+  {
+   "fig": 171,
+   "name": "Neriene viaria",
+   "drawings": {
+    "a": "palpus of ♂",
+    "b": "♂"
+   }
+  },
+  {
+   "fig": 172,
+   "name": "Neriene gracilis",
+   "drawings": {
+    "a": "palpus of ♂",
+    "b": "♀",
+    "c": "♂"
+   }
+  },
+  {
+   "fig": 173,
+   "name": "Neriene vagans",
+   "drawings": {
+    "a": "palpus of ♂ in two positions",
+    "b": "palpus of ♂ in two positions",
+    "c": "♂",
+    "d": "♀"
+   }
+  },
+  {
+   "fig": 174,
+   "name": "Neriene dentata",
+   "drawings": {
+    "a": "palpus of ♂",
+    "b": "front view of cephalo-thorax and falces",
+    "c": "♂"
+   }
+  },
+  {
+   "fig": 175,
+   "name": "Neriene affinis",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "front view of cephalo-thorax and falces",
+    "d": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 176,
+   "name": "Neriene Huthwaitii",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 177,
+   "name": "Neriene pygmæa",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 178,
+   "name": "Neriene flavipes",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 179,
+   "name": "Neriene parva",
+   "drawings": {
+    "a": "♂",
+    "b": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 180,
+   "name": "Neriene munda",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 181,
+   "name": "Neriene cornuta",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "side view of cephalo-thorax and falces",
+    "d": "palpus of ♂ in two positions",
+    "e": "palpus of ♂ in two positions"
+   }
+  },
+  {
+   "fig": 182,
+   "name": "Neriene bituberculata",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂",
+    "d": "side view of cephalo-thorax and falces",
+    "e": "front view of cephalo-thorax and falces"
+   }
+  },
+  {
+   "fig": 183,
+   "name": "Neriene apicata",
+   "drawings": {
+    "a": "♂",
+    "b": "cephalo-thorax in profile",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 184,
+   "name": "Neriene rubens",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "one of first pair of legs of ♂",
+    "d": "palpus of ♂, in two positions",
+    "e": "palpus of ♂, in two positions"
+   }
+  },
+  {
+   "fig": 185,
+   "name": "Neriene nigra",
+   "drawings": {
+    "a": "♂",
+    "b": "♀",
+    "c": "palpus of ♂ in two positions",
+    "d": "palpus of ♂ in two positions",
+    "e": "cephalo-thorax in profile"
+   }
+  },
+  {
+   "fig": "A",
+   "name": "Neriene marginata",
+   "drawings": {
+    "": "Front view of cephalo-thorax and falces; and falces, maxillæ, and labium"
+   }
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "plate": 15,
+ "roman": "XV",
+ "title": "PHOLCUS. LINYPHIA.",
+ "figures": [
+  {
+   "fig": 137,
+   "name": "Pholcus phalangioides",
+   "drawings": {
+    "a": "♀, with cocoon",
+    "b": "♀",
+    "c": "eyes",
+    "d": "palpus of ♂",
+    "f": "maxillæ and labium"
+   }
+  },
+  {
+   "fig": 138,
+   "name": "Linyphia montana",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "eyes",
+    "d": "maxillæ and labium",
+    "e": "falx of ♂",
+    "f": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 139,
+   "name": "Linyphia triangularis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 140,
+   "name": "Linyphia marginata",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 141,
+   "name": "Linyphia pratensis",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 142,
+   "name": "Linyphia fuliginea",
+   "drawings": {
+    "a": "♀",
+    "b": "♀, variety",
+    "c": "♂",
+    "d": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 143,
+   "name": "Linyphia rubea",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 144,
+   "name": "Linyphia minuta",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  },
+  {
+   "fig": 145,
+   "name": "Linyphia cauta",
+   "drawings": {
+    "a": "♀",
+    "b": "♂",
+    "c": "palpus of ♂"
+   }
+  }
+ ]
+}
