@@ -91,6 +91,15 @@ File name: `Blackwall 1861 A history of the spiders of Great Britain and Ireland
 (year of the volume, plate in Roman numerals, epithets lowercase). License `{{PD-old-100-expired}}`; structured
 data: depicts, creator (Q661407), inception, copyright status.
 
+## Gallery
+
+https://blackwall.kimbaro.com shows the gallery crops (colored drawings, 497) arranged by family, with a key and
+a card per figure. It is built by the shared `C:\dev\koch\scripts\poster.py` (`build-site.cmd`; settings in
+`data/site.json`, text in `data/about.html`, Commons plate files in `data/plate_files.json`) into `site/` (not in git)
+and deployed with `npx wrangler deploy` (`wrangler.jsonc`). Subfamilies come from `data/genus_ranks.json`
+(`C:\dev\koch\scripts\subfamilies.py` with `PLATE_PROJECT` set). Gallery membership is `data/gallery_skip.json`
+(the review app's "Sketches only" view, key `s`, lists what is left out).
+
 ## Plate and description disagree (check in review)
 
 - Pl. III: figs 2–17 are palps only (the spiders are on plates I–II); ids "2".."17", plus 10a.

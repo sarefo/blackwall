@@ -1,0 +1,634 @@
+{
+ "Aculepeira": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Araneini"
+ },
+ "Agalenatea": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Araneini"
+ },
+ "Agelena": {
+  "familia": "Agelenidae"
+ },
+ "Agroeca": {
+  "familia": "Liocranidae"
+ },
+ "Agyneta": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Alopecosa": {
+  "familia": "Lycosidae",
+  "subfamilia": "Lycosinae"
+ },
+ "Amaurobius": {
+  "familia": "Amaurobiidae"
+ },
+ "Anelosimus": {
+  "familia": "Theridiidae",
+  "subfamilia": "Anelosiminae"
+ },
+ "Antistea": {
+  "familia": "Hahniidae"
+ },
+ "Anyphaena": {
+  "familia": "Anyphaenidae",
+  "subfamilia": "Anyphaeninae"
+ },
+ "Araeoncus": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Araneus": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Araneini"
+ },
+ "Araniella": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Cyclosini"
+ },
+ "Arctosa": {
+  "familia": "Lycosidae",
+  "subfamilia": "Tricassinae"
+ },
+ "Argyroneta": {},
+ "Asagena": {
+  "familia": "Theridiidae",
+  "subfamilia": "Latrodectinae"
+ },
+ "Attulus": {
+  "familia": "Salticidae",
+  "subfamilia": "Sitticinae",
+  "tribus": "Sitticini"
+ },
+ "Atypus": {
+  "familia": "Atypidae",
+  "genus": "Atypus"
+ },
+ "Ballus": {
+  "familia": "Salticidae",
+  "subfamilia": "Salticinae",
+  "tribus": "Ballini"
+ },
+ "Baryphyma": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Bathyphantes": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Linyphiinae"
+ },
+ "Bathythrix": {},
+ "Bolyphantes": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Brigittea": {
+  "familia": "Dictynidae"
+ },
+ "Centromerita": {
+  "familia": "Linyphiidae"
+ },
+ "Ceratinella": {
+  "familia": "Linyphiidae"
+ },
+ "Cercidia": {
+  "familia": "Araneidae"
+ },
+ "Cheiracanthium": {
+  "familia": "Cheiracanthiidae"
+ },
+ "Clubiona": {
+  "familia": "Clubionidae"
+ },
+ "Cnephalocotes": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Coelotes": {
+  "familia": "Agelenidae",
+  "subfamilia": "Coelotinae"
+ },
+ "Crustulina": {
+  "familia": "Theridiidae",
+  "subfamilia": "Latrodectinae"
+ },
+ "Cryphoeca": {
+  "familia": "Hahniidae"
+ },
+ "Cryptachaea": {
+  "familia": "Theridiidae",
+  "subfamilia": "Theridiinae"
+ },
+ "Cyclosa": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Cyclosini"
+ },
+ "Diaea": {
+  "familia": "Thomisidae",
+  "subfamilia": "Thomisinae",
+  "tribus": "Diaeini"
+ },
+ "Dictyna": {
+  "familia": "Dictynidae"
+ },
+ "Dicymbium": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Diplocephalus": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Diplostyla": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Linyphiinae"
+ },
+ "Dismodicus": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Dolomedes": {
+  "familia": "Pisauridae"
+ },
+ "Drapetisca": {
+  "familia": "Linyphiidae"
+ },
+ "Drassodes": {
+  "familia": "Gnaphosidae",
+  "subfamilia": "Drassodinae"
+ },
+ "Drassyllus": {
+  "familia": "Gnaphosidae",
+  "subfamilia": "Zelotinae"
+ },
+ "Dysdera": {
+  "familia": "Dysderidae",
+  "subfamilia": "Dysderinae"
+ },
+ "Emargidromus": {
+  "familia": "Philodromidae"
+ },
+ "Enoplognatha": {
+  "familia": "Theridiidae",
+  "subfamilia": "Pholcommatinae"
+ },
+ "Entelecara": {
+  "familia": "Linyphiidae"
+ },
+ "Episinus": {
+  "familia": "Theridiidae",
+  "subfamilia": "Spintharinae"
+ },
+ "Eratigena": {
+  "familia": "Agelenidae"
+ },
+ "Eresus": {
+  "familia": "Eresidae"
+ },
+ "Erigone": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Erigonella": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Ero": {
+  "familia": "Mimetidae",
+  "subfamilia": "Mimetinae"
+ },
+ "Euophrys": {
+  "familia": "Salticidae",
+  "subfamilia": "Salticinae",
+  "tribus": "Euophryini"
+ },
+ "Euryopis": {
+  "familia": "Theridiidae",
+  "subfamilia": "Hadrotarsinae"
+ },
+ "Evarcha": {
+  "familia": "Salticidae",
+  "subfamilia": "Plexippinae",
+  "tribus": "Hyllini"
+ },
+ "Floronia": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Gibbaranea": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Araneini"
+ },
+ "Gnaphosa": {
+  "familia": "Gnaphosidae",
+  "subfamilia": "Gnaphosinae"
+ },
+ "Gnathonarium": {
+  "familia": "Linyphiidae"
+ },
+ "Gonatium": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Gongylidiellum": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Gongylidium": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Hahnia": {
+  "familia": "Hahniidae"
+ },
+ "Haplodrassus": {
+  "familia": "Gnaphosidae",
+  "subfamilia": "Drassodinae"
+ },
+ "Harpactea": {
+  "familia": "Dysderidae",
+  "subfamilia": "Harpacteinae"
+ },
+ "Heliophanus": {
+  "familia": "Salticidae",
+  "subfamilia": "Salticinae",
+  "tribus": "Chrysillini"
+ },
+ "Helophora": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Hemeteles": {},
+ "Hylyphantes": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Hypomma": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Hypsosinga": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Dolophonini"
+ },
+ "Iberina": {
+  "familia": "Hahniidae"
+ },
+ "Kaestneria": {
+  "familia": "Linyphiidae"
+ },
+ "Labulla": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Linyphiinae"
+ },
+ "Larinioides": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Mangorini"
+ },
+ "Lathys": {},
+ "Lepthyphantes": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Leptorhoptrum": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Leptothrix": {},
+ "Linyphia": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Linyphiinae"
+ },
+ "Liocranum": {
+  "familia": "Liocranidae"
+ },
+ "Lophomma": {
+  "familia": "Linyphiidae"
+ },
+ "Macrargus": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Mangora": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Mangorini"
+ },
+ "Marpissa": {
+  "familia": "Salticidae",
+  "subfamilia": "Marpissinae",
+  "tribus": "Marpissini"
+ },
+ "Megalepthyphantes": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Meta": {},
+ "Metellina": {
+  "familia": "Tetragnathidae",
+  "subfamilia": "Metainae"
+ },
+ "Micaria": {
+  "familia": "Gnaphosidae",
+  "subfamilia": "Micariinae"
+ },
+ "Micrargus": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Microlinyphia": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Linyphiinae"
+ },
+ "Micrommata": {
+  "familia": "Sparassidae",
+  "subfamilia": "Sparassinae"
+ },
+ "Microneta": {
+  "familia": "Linyphiidae"
+ },
+ "Misumena": {
+  "familia": "Thomisidae",
+  "subfamilia": "Thomisinae",
+  "tribus": "Misumenini"
+ },
+ "Monocephalus": {},
+ "Myrmarachne": {
+  "familia": "Salticidae",
+  "subfamilia": "Salticinae",
+  "tribus": "Myrmarachnini"
+ },
+ "Neon": {
+  "familia": "Salticidae",
+  "subfamilia": "Euophryinae"
+ },
+ "Neoscona": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Mangorini"
+ },
+ "Neottiura": {
+  "familia": "Theridiidae",
+  "subfamilia": "Theridiinae"
+ },
+ "Neriene": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Linyphiinae"
+ },
+ "Nesticus": {
+  "familia": "Nesticidae"
+ },
+ "Nigma": {
+  "familia": "Dictynidae"
+ },
+ "Nuctenea": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Araneini"
+ },
+ "Obscuriphantes": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Oedothorax": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Oonops": {
+  "familia": "Oonopidae",
+  "subfamilia": "Oonopinae"
+ },
+ "Oxyopes": {
+  "familia": "Oxyopidae"
+ },
+ "Ozyptila": {
+  "familia": "Thomisidae",
+  "subfamilia": "Thomisinae",
+  "tribus": "Diaeini"
+ },
+ "Pachygnatha": {},
+ "Paidiscura": {
+  "familia": "Theridiidae"
+ },
+ "Palliduphantes": {
+  "familia": "Linyphiidae",
+  "genus": "Palliduphantes",
+  "subfamilia": "Micronetinae"
+ },
+ "Parapelecopsis": {},
+ "Parasteatoda": {
+  "familia": "Theridiidae",
+  "subfamilia": "Theridiinae"
+ },
+ "Pardosa": {
+  "familia": "Lycosidae",
+  "subfamilia": "Pardosinae"
+ },
+ "Pelecopsis": {
+  "familia": "Linyphiidae"
+ },
+ "Peponocranium": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Philodromus": {
+  "familia": "Philodromidae",
+  "subfamilia": "Philodrominae"
+ },
+ "Pholcus": {
+  "familia": "Pholcidae",
+  "subfamilia": "Pholcinae"
+ },
+ "Phrurolithus": {
+  "familia": "Phrurolithidae"
+ },
+ "Phycosoma": {
+  "familia": "Theridiidae",
+  "subfamilia": "Hadrotarsinae"
+ },
+ "Phylloneta": {
+  "familia": "Theridiidae"
+ },
+ "Pirata": {
+  "familia": "Lycosidae",
+  "subfamilia": "Piratinae"
+ },
+ "Piratula": {
+  "familia": "Lycosidae",
+  "subfamilia": "Piratinae"
+ },
+ "Pisaura": {
+  "familia": "Pisauridae"
+ },
+ "Platnickina": {
+  "familia": "Theridiidae",
+  "subfamilia": "Theridiinae"
+ },
+ "Pocadicnemis": {},
+ "Poeciloneta": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Porrhomma": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Linyphiinae"
+ },
+ "Priocnemis": {
+  "familia": "Pompilidae",
+  "subfamilia": "Pepsinae",
+  "tribus": "Priocnemini"
+ },
+ "Psammitis": {
+  "familia": "Thomisidae",
+  "subfamilia": "Thomisinae",
+  "tribus": "Diaeini"
+ },
+ "Pseudeuophrys": {
+  "familia": "Salticidae",
+  "subfamilia": "Salticinae",
+  "tribus": "Euophryini"
+ },
+ "Rhysodromus": {
+  "familia": "Philodromidae",
+  "subfamilia": "Philodrominae"
+ },
+ "Robertus": {
+  "familia": "Theridiidae",
+  "subfamilia": "Pholcommatinae"
+ },
+ "Saaristoa": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Salticus": {
+  "familia": "Salticidae",
+  "subfamilia": "Salticinae"
+ },
+ "Savignia": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Scotina": {
+  "familia": "Liocranidae",
+  "subfamilia": "Liocraninae"
+ },
+ "Scotophaeus": {
+  "familia": "Gnaphosidae",
+  "subfamilia": "Herpyllinae"
+ },
+ "Scytodes": {
+  "familia": "Scytodidae"
+ },
+ "Segestria": {},
+ "Silometopus": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Simitidion": {
+  "familia": "Theridiidae",
+  "subfamilia": "Theridiinae"
+ },
+ "Singa": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Araneini"
+ },
+ "Sintula": {
+  "familia": "Linyphiidae"
+ },
+ "Steatoda": {
+  "familia": "Theridiidae",
+  "subfamilia": "Latrodectinae"
+ },
+ "Stemonyphantes": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Stemonyphantinae"
+ },
+ "Tapinopa": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Tegenaria": {
+  "familia": "Agelenidae"
+ },
+ "Tenuiphantes": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Micronetinae"
+ },
+ "Tetragnatha": {
+  "familia": "Tetragnathidae",
+  "subfamilia": "Tetragnathinae"
+ },
+ "Textrix": {
+  "familia": "Agelenidae",
+  "subfamilia": "Ageleninae"
+ },
+ "Theridion": {
+  "familia": "Theridiidae",
+  "subfamilia": "Theridiinae"
+ },
+ "Thomisus": {
+  "familia": "Thomisidae",
+  "subfamilia": "Thomisinae",
+  "tribus": "Misumenini"
+ },
+ "Tibellus": {
+  "familia": "Philodromidae",
+  "subfamilia": "Philodrominae"
+ },
+ "Tiso": {
+  "familia": "Linyphiidae"
+ },
+ "Tmeticus": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Trichoncus": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Trichopternoides": {},
+ "Trochosa": {
+  "familia": "Lycosidae",
+  "subfamilia": "Lycosinae"
+ },
+ "Troxochrus": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Uloborus": {
+  "familia": "Uloboridae",
+  "subfamilia": "Uloborinae"
+ },
+ "Walckenaeria": {
+  "familia": "Linyphiidae",
+  "subfamilia": "Erigoninae"
+ },
+ "Xysticus": {
+  "familia": "Thomisidae",
+  "subfamilia": "Thomisinae",
+  "tribus": "Diaeini"
+ },
+ "Zelotes": {
+  "familia": "Gnaphosidae",
+  "subfamilia": "Zelotinae"
+ },
+ "Zilla": {},
+ "Zora": {
+  "familia": "Zoridae"
+ },
+ "Zygiella": {
+  "familia": "Araneidae",
+  "subfamilia": "Araneinae",
+  "tribus": "Dolophonini"
+ }
+}

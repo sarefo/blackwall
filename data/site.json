@@ -1,0 +1,22 @@
+{
+ "out": "site",
+ "poster": false,
+ "cols": 20,
+ "url": "https://blackwall.kimbaro.com/",
+ "about": "about.html",
+ "loc_label": "Shows",
+ "brand": "BLACKWALL",
+ "search": "Search name, family or figure number",
+ "site_name": "Blackwall's Spiders of Great Britain and Ireland",
+ "title": "Blackwall's Spiders of Great Britain and Ireland",
+ "desc": "{N} hand-colored figures from John Blackwall's A History of the Spiders of Great Britain and Ireland (1861 to 1864), arranged by family, with a searchable key.",
+ "og_title": "Blackwall's Spiders: every colored figure",
+ "og_desc": "{N} hand-colored figures of British spiders from John Blackwall's A History of the Spiders of Great Britain and Ireland (1861 to 1864), arranged by family, with a searchable key.",
+ "tw_desc": "{N} hand-colored figures from John Blackwall's A History of the Spiders of Great Britain and Ireland (1861 to 1864), arranged by family.",
+ "og_alt": "Eresus cinnabarinus, a hand-colored spider from Blackwall's A History of the Spiders of Great Britain and Ireland",
+ "og_fig": "23",
+ "icon_fig": "23",
+ "og_head": "Blackwall's Spiders",
+ "og_byline": "John Blackwall, 1861 to 1864",
+ "og_lines": ["{N} hand-colored figures,", "arranged by family, with a searchable key"]
+}

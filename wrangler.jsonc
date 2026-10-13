@@ -1,0 +1,13 @@
+// Serves the gallery (site/, built by C:\dev\koch\scripts\poster.py with PLATE_PROJECT set to this folder) at
+// blackwall.kimbaro.com as static assets.
+// Build: build-site.cmd, then: npx wrangler deploy
+{
+  "name": "blackwall-spiders",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./site"
+  },
+  "routes": [
+    { "pattern": "blackwall.kimbaro.com", "custom_domain": true }
+  ]
+}

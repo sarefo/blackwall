@@ -62,6 +62,16 @@ def rows_save(rows):
         w.writerows(rows)
 
 
+def mark_uploaded(r):
+    """Write this row's upload columns into the CSV as it is on disk now, so ticks saved by the review app
+    while a long upload runs are not overwritten with the table loaded at the start."""
+    rows = rows_load()
+    for x in rows:
+        if x["id"] == r["id"]:
+            x["commons_filename"], x["uploaded"], x["commons_url"] = r["commons_filename"], r["uploaded"], r["commons_url"]
+    rows_save(rows)
+
+
 def plate_page(tafel):
     """Commons file of the whole plate (plate 1 is spelled with an Arabic numeral there)."""
     n = int(tafel)
@@ -275,7 +285,7 @@ def upload(a):
         if ok:
             page = pywikibot.FilePage(site, "File:" + n)
             r["commons_filename"], r["uploaded"], r["commons_url"] = n, "TRUE", page.full_url().replace("File%3A", "File:")
-            rows_save(rows)  # after every file, so an interrupted run loses nothing
+            mark_uploaded(r)  # after every file, so an interrupted run loses nothing
             try:
                 add_sdc(site, page.pageid, r, cache)
             except Exception as e:
