@@ -70,10 +70,9 @@ the rest needs hand cleanup.
 ## Status (2026-10-13)
 
 All 29 plates cut: 1094 wide crops and tight crops, every figure named (WSC, or GBIF for four names WSC does
-not list). The 497 gallery crops are reviewed, plus 16 ticked line drawings; names are checked.
-513 tight crops are on Commons (uploaded 2026-10-13 with `scripts/commons.py`), and each plate page links its
-crops with `{{Image extracted}}`. The other 581 crops (mostly uncolored palps, eyes and mouthparts, left out of
-the gallery) are not reviewed and not uploaded.
+not list), all reviewed. All 1094 tight crops are on Commons (uploaded 2026-10-13 with `scripts/commons.py`), and
+each plate page links its crops with `{{Image extracted}}`. The gallery (497 colored drawings) is at
+https://blackwall.kimbaro.com.
 
 ## Commons
 
