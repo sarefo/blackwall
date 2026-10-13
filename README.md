@@ -67,11 +67,29 @@ components and partly stay below the ink threshold. A box paints out nothing, so
 neighbor lines, leader dashes and printed labels can remain; the tight masks remove some,
 the rest needs hand cleanup.
 
-## Status (2026-10-12)
+## Status (2026-10-13)
 
-All 29 plates cut: 1094 wide crops and first-guess tight crops, every figure named (WSC, or GBIF for
-four names WSC does not list). Not reviewed yet, nothing uploaded. The Commons file names in the table
-(`Blackwall 1861 Spiders of Great Britain pl. 1 fig. 1a Atypus Sulzeri.jpg`) are a draft.
+All 29 plates cut: 1094 wide crops and tight crops, every figure named (WSC, or GBIF for four names WSC does
+not list). The 497 gallery crops are reviewed, plus 16 ticked line drawings; names are checked.
+513 tight crops are on Commons (uploaded 2026-10-13 with `scripts/commons.py`), and each plate page links its
+crops with `{{Image extracted}}`. The other 581 crops (mostly uncolored palps, eyes and mouthparts, left out of
+the gallery) are not reviewed and not uploaded.
+
+## Commons
+
+`scripts/commons.py` (run with the Koch venv; the bot password lives in `C:\dev\koch`):
+
+```
+commons.py lookup          taxon categories and Wikidata items into data/commons_cache.json
+commons.py names           commons_filename in data/figures.csv
+commons.py pages           description pages into work/pages
+commons.py upload [--go]   dry run unless --go; needs crop_ok and names_checked; uploads the tight crop
+commons.py plates [--go]   {{Image extracted}} lines on the plate pages
+```
+
+File name: `Blackwall 1861 A history of the spiders of Great Britain and Ireland pl. I fig. 1a Atypus sulzeri.jpg`
+(year of the volume, plate in Roman numerals, epithets lowercase). License `{{PD-old-100-expired}}`; structured
+data: depicts, creator (Q661407), inception, copyright status.
 
 ## Plate and description disagree (check in review)
 
